@@ -1,0 +1,5 @@
+Label,Recap_Average_Score,Base_Average_Score,Template_Average_Score,Cat_Average_Score,RAG_Average_Score,RAG_Cat_Average_Score
+FAC,94.38,87.51,87.8,93.81,87.2,88.75
+INF,95.8,98.03,96.92,97.42,96.6,97.87
+REL,95.66,97.45,96.29,95.96,96.29,95.74
+OVR,95.8,95.83,93.99,97.0,96.76,96.69

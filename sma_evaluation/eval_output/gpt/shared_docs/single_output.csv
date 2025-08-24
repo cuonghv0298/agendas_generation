@@ -1,0 +1,1983 @@
+Item,agenda_Unknown Role,Score_Unknown Role
+IS1006c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **User Feedback and Requirements (5 minutes)**  
+  + **Survey Results Overview** (2 minutes)  
+    + Discuss user dislikes: colors and complexity.  
+    + Highlight key frustrations: RSI and difficulty in usage.  
+  + **Functionality Preferences** (3 minutes)  
+    + Review essential functions: power, channel, volume.  
+    + Discuss less used functions and the potential for speech recognition.  
+
+2. **Design Concepts and Materials (10 minutes)**  
+  + **Material and Energy Source Discussion** (5 minutes)  
+    + Evaluate options: traditional battery vs. solar battery.  
+    + Discuss material preferences: titanium vs. rubber.  
+  + **User Interface and Features** (5 minutes)  
+    + Review proposed features: few buttons, speech recognition, and LCD options.  
+    + Discuss the concept of a ""smart device"" and its implications.  
+
+3. **Trends and Market Analysis (5 minutes)**  
+  + **Trend Insights Presentation** (3 minutes)  
+    + Discuss findings on user preferences for aesthetics and functionality.  
+    + Highlight recent fashion trends influencing design choices.  
+  + **Market Evaluation Criteria** (2 minutes)  
+    + Review evaluation criteria for prototype assessment: fancy look, technology, robustness.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Confirm individual responsibilities based on discussions: design, user interface, and market evaluation.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1008a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Overview** (2 minutes)  
+    + Brief introduction of the meeting purpose and agenda.  
+    + Acknowledge participants and their roles.  
+  + **Review of Previous Meeting Minutes** (3 minutes)  
+    + Summary of key decisions and actions from the last meeting.  
+
+2. **Design Presentations (15 minutes)**  
+  + **Components Design Overview** (5 minutes)  
+    + Presentation of the conceptual specification of components.  
+    + Discussion on materials and their evaluations (e.g., rubber, plastic, titanium).  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Overview of functionalities and ergonomic considerations.  
+    + Discussion on voice recognition and feedback mechanisms.  
+  + **Market Evaluation and Trends** (5 minutes)  
+    + Presentation of market research findings and consumer preferences.  
+    + Discussion on pricing strategy and target market analysis.  
+
+3. **Decision-Making on Key Features (10 minutes)**  
+  + **Discussion on Remote Control Functions** (5 minutes)  
+    + Finalize decisions on features to include (e.g., speech recognition, ergonomic design).  
+    + Address any concerns regarding functionality and user experience.  
+  + **Budget and Production Feasibility** (5 minutes)  
+    + Review production costs and budget constraints.  
+    + Discuss potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Tasks** (5 minutes)  
+    + Outline individual responsibilities based on discussions.  
+    + Set deadlines for the next meeting and deliverables.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2002b.json,"**Meeting Agenda: Final Design Review for Remote Control Project**  
+1. **Introductions and Overview (5 minutes)**  
+  + **Team Introductions** (2 minutes)  
+    + Brief introductions of team members and their roles.  
+  + **Project Overview** (3 minutes)  
+    + Recap of project goals and current status.  
+
+2. **Design Decisions (10 minutes)**  
+  + **Final Design Presentation** (5 minutes)  
+    + Overview of the final design features: ""snowman"" shape, materials used, and functionalities.  
+    + Discussion on the elimination of LCD and advanced features due to budget constraints.  
+  + **Evaluation of Design Criteria** (5 minutes)  
+    + Review of design against evaluation criteria: aesthetics, functionality, and cost.  
+    + Discussion on any remaining design adjustments or considerations.  
+
+3. **Next Steps and Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks for final prototype development and preparation for market evaluation.  
+
+**Total Time:** 20 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2003b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+  + **Introductions** (2 minutes)  
+    + Brief introductions of team members and their roles.  
+  + **Overview of Previous Meeting** (3 minutes)  
+    + Summary of key decisions made and actions taken since the last meeting.  
+
+2. **Design Decisions (10 minutes)**  
+  + **Review of Design Concepts** (5 minutes)  
+    + Discussion on the integration of joystick and LCD display for user interface.  
+    + Evaluation of ergonomic design and materials: rubber vs. plastic.  
+  + **Cost Analysis and Budget Constraints** (5 minutes)  
+    + Review of production costs and necessary cutbacks.  
+    + Discussion on the implications of design changes on functionality and marketability.  
+
+3. **Next Steps and Action Items (5 minutes)**  
+  + **Individual Action Plans** (5 minutes)  
+    + Assign tasks to team members based on discussions and decisions made during the meeting.  
+    + Set deadlines for completion of tasks before the next meeting.  
+
+**Total Time:** 20 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 4, 'OVR_DOC': 5}"
+IS1007b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening Remarks (5 minutes)**  
+   + **Introduction by Project Manager** (2 minutes)  
+     + Overview of meeting objectives and agenda.  
+     + Reminder of roles and responsibilities for note-taking.  
+   + **Review of Previous Meeting Minutes** (3 minutes)  
+     + Brief recap of decisions made and actions assigned in the last meeting.  
+
+2. **Project Requirements and Updates (10 minutes)**  
+   + **Presentation of New Project Requirements** (5 minutes)  
+     + Discussion on the inclusion of speech recognition and content-based navigation.  
+     + Review of user feedback on design preferences and functionality.  
+   + **Component and Interface Design Updates** (5 minutes)  
+     + Presentation by Industrial Designer on component feasibility and material choices.  
+     + Discussion led by User Interface Designer on interface concepts and user experience improvements.  
+
+3. **Prototype Evaluation (10 minutes)**  
+   + **Demonstration of Prototypes** (5 minutes)  
+     + Overview of two versions: with and without LCD.  
+     + Discussion on user feedback regarding design and functionality.  
+   + **Evaluation Criteria Discussion** (5 minutes)  
+     + Review of criteria for assessing prototypes: aesthetics, functionality, and user-friendliness.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assignment of Action Items** (5 minutes)  
+     + Each team member to present their next steps based on discussions.  
+     + Set deadlines for individual tasks and prepare for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+IS1008d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction of Participants** (2 minutes)  
+    + Brief overview of team members and their roles.  
+  + **Meeting Objectives** (3 minutes)  
+    + Outline the goals for the meeting and expected outcomes.  
+
+2. **Presentations (15 minutes)**  
+  + **Components Design Overview** (5 minutes)  
+    + Discussion on materials and components: rubber, plastic, titanium, and chip on print.  
+    + Evaluation of past materials and new findings.  
+  + **User Interface Concept** (5 minutes)  
+    + Presentation of functionalities: on/off switch, volume control, and ergonomic design.  
+    + Discussion on voice recognition and user feedback mechanisms.  
+  + **Market Evaluation and Trends** (5 minutes)  
+    + Insights on market demand for innovative features and user preferences.  
+    + Discussion on pricing strategy and production costs.  
+
+3. **Decision-Making Session (10 minutes)**  
+  + **Key Design Decisions** (5 minutes)  
+    + Finalize decisions on materials, functionalities, and design features.  
+    + Confirm integration of speech recognition and user-friendly elements.  
+  + **Budget and Production Feasibility** (5 minutes)  
+    + Review budget constraints and production timelines.  
+    + Discuss potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Responsibilities** (5 minutes)  
+    + Outline individual action items and deadlines for team members.  
+    + Confirm next meeting date and objectives.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 3}"
+ES2007a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions of Team Members** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Overview of Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: review progress, discuss design decisions, and plan next steps.  
+
+2. **Design Presentations (10 minutes)**  
+   + **Industrial Design Presentation** (5 minutes)  
+     + Discuss energy source options (batteries vs. kinetic energy).  
+     + Review case material options (rubber, ergonomic design).  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Present user interface options and discuss the decision for a simple, ergonomic design.  
+
+3. **Marketing Insights (5 minutes)**  
+   + **Marketing Presentation** (5 minutes)  
+     + Review survey results on user preferences and discuss branding elements (colors, logo).  
+
+4. **Decisions and Next Steps (5 minutes)**  
+   + **Review of Key Decisions** (3 minutes)  
+     + Confirm decisions made regarding functionality, design, and marketing strategies.  
+   + **Action Items** (2 minutes)  
+     + Assign tasks to team members for the next phase of the project.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1005a.json,"**Meeting Agenda: Remote Control Project Evaluation**  
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Overview** (2 minutes)  
+    + Brief introduction of participants and their roles.  
+    + Outline of meeting objectives.  
+  + **Review of Previous Meeting Outcomes** (3 minutes)  
+    + Summary of decisions made in the last meeting.  
+    + Key points from the prototype evaluation.  
+
+2. **Prototype Presentation (10 minutes)**  
+  + **Industrial Designer Presentation** (5 minutes)  
+    + Overview of the prototype features and design choices.  
+    + Discussion on the use of materials and technology.  
+  + **User Interface Designer Presentation** (5 minutes)  
+    + Explanation of user interface design and functionality.  
+    + Feedback on user experience and ease of use.  
+
+3. **Evaluation Criteria Discussion (10 minutes)**  
+  + **Marketing Expert Insights** (5 minutes)  
+    + Presentation of market research findings and user preferences.  
+    + Discussion on the importance of aesthetics vs. functionality.  
+  + **Team Feedback and Adjustments** (5 minutes)  
+    + Open floor for team members to provide feedback on the prototype.  
+    + Discussion on necessary adjustments based on evaluation criteria.  
+
+4. **Financial Review and Budget Discussion (5 minutes)**  
+  + **Cost Analysis Presentation** (5 minutes)  
+    + Review of production costs and budget constraints.  
+    + Discussion on potential redesigns if costs exceed budget.  
+
+5. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Tasks** (5 minutes)  
+    + Outline action items for each team member based on discussions.  
+    + Set deadlines for next steps and schedule the next meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+ES2004b.json,"**Meeting Agenda: Final Design Phase for Remote Control Project**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants draw their favorite animal and describe it in three adjectives.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview and Updates (10 minutes)**  
+   + **Project Manager Presentation** (5 minutes)  
+     + Recap of project goals: trendy, original, and user-friendly design.  
+     + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+   + **Discussion of Key Features** (5 minutes)  
+     + Review of main features: multi-utility concept, user-friendly interface, and design considerations.  
+
+3. **Design Decisions (10 minutes)**  
+   + **Internal Design Elements** (5 minutes)  
+     + Discussion on the internal components and design features, including the use of a kinetic charger and standard chip.  
+   + **External Design Elements** (5 minutes)  
+     + Review of external design considerations, including color schemes and materials.  
+
+4. **Next Steps and Actions (5 minutes)**  
+   + **Action Items** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 4, 'REL_DOC': 4, 'OVR_DOC': 2}"
+ES2009a.json,"**Meeting Agenda: Remote Control Project Kickoff**  
+1. **Introductions and Icebreaker (5 minutes)**  
+  + **Introductions** (2 minutes)  
+    + Each participant shares their name and role in the project.  
+  + **Icebreaker Activity** (3 minutes)  
+    + Participants share their favorite TV show and why they enjoy it.  
+
+2. **Project Overview (10 minutes)**  
+  + **Project Goals Presentation** (5 minutes)  
+    + Discuss the aim to create an original, trendy, and user-friendly remote control.  
+    + Outline financial constraints: Selling price of 25 Euro, production cost max of 12.50 Euro.  
+  + **Discussion on Target Audience** (5 minutes)  
+    + Identify the primary audience for the remote control and their preferences.  
+    + Explore initial ideas for features and design elements.  
+
+3. **Design and Functionality Discussion (10 minutes)**  
+  + **User Interface and Technical Functions** (5 minutes)  
+    + Review proposed user interface components and their functionalities.  
+    + Discuss the balance between simplicity and advanced features.  
+  + **Component Design Considerations** (5 minutes)  
+    + Evaluate materials, energy sources, and design aesthetics.  
+    + Discuss potential limitations from manufacturers and alternatives.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities for the next phase of the project.  
+    + Set deadlines for initial prototypes and further research.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 3, 'REL_DOC': 4, 'OVR_DOC': 5}"
+ES2009b.json,"**Meeting Agenda: Remote Control Project Kickoff**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants share their favorite TV show and why they love it.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles in the project.  
+
+2. **Project Overview (10 minutes)**  
+   + **Project Goals Presentation** (5 minutes)  
+     + Discuss the aim to create a trendy, user-friendly remote control priced at 25 euros with a production cost of 12.50 euros.  
+     + Outline the target market and key features to be included.  
+   + **Discussion of Project Methodology** (5 minutes)  
+     + Review the phases: functional design, conceptual design, and detailed design.  
+     + Address the importance of individual contributions and teamwork.  
+
+3. **Tool Training (5 minutes)**  
+   + **Introduction to Tools** (5 minutes)  
+     + Overview of tools to be used during the project, including whiteboard and digital collaboration platforms.  
+
+4. **Discussion on Initial Ideas (5 minutes)**  
+   + **Brainstorming Session** (5 minutes)  
+     + Gather initial thoughts on features, design preferences, and potential challenges.  
+     + Discuss the importance of simplicity and user experience in design.  
+
+5. **Next Steps and Actions (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks based on discussions and establish deadlines for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 3, 'REL_DOC': 4, 'OVR_DOC': 2}"
+ES2006a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Team Introductions** (2 minutes)  
+     + Each member briefly introduces themselves and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals: trendy, user-friendly, and original design.  
+     + Financial guidelines: Selling price of €25, production cost not to exceed €12.50.  
+
+2. **Design Specifications Discussion (10 minutes)**  
+   + **Current Design Proposals** (5 minutes)  
+     + Review of proposed components: LCD, voice recognition, minimalist design.  
+     + Discussion on functionality: volume, channel, on/off buttons.  
+   + **Budget Considerations** (5 minutes)  
+     + Address cost implications of design features and necessary adjustments.  
+     + Consensus on removing non-essential features to meet budget constraints.  
+
+3. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Responsibilities** (5 minutes)  
+     + Each team member outlines their tasks until the next meeting:  
+       - User Interface Designer: Finalize button design and initial prototype.  
+       - Technical Designer: Estimate costs for new technology.  
+       - Marketing Manager: Conduct market research.  
+       - Project Manager: Prepare for the next meeting and assess progress.  
+
+**Total Time:** 20 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2006d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Team Introductions** (2 minutes)  
+     + Each member briefly introduces themselves and their role in the project.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals: trendy, user-friendly, and original design.  
+     + Financial guidelines: Selling price Euro 25, Production cost: Euro 12.5.  
+
+2. **Design Specifications Discussion (10 minutes)**  
+   + **Component Specifications** (5 minutes)  
+     + Review of key components: LCD, voice recognition, minimalist design.  
+     + Discussion on functionality: volume, channels, on/off buttons.  
+   + **Design Aesthetics** (5 minutes)  
+     + Consensus on design colors and materials: 'fruit and vegetable' colors, rubber case.  
+     + Addressing the removal of the scroll wheel to reduce costs.  
+
+3. **Challenges and Issues (5 minutes)**  
+   + **Budget Constraints** (3 minutes)  
+     + Discussion on the impact of budget on design features and functionality.  
+   + **Role Clarity** (2 minutes)  
+     + Addressing unclear role specifications among team members.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Assignments** (5 minutes)  
+     + Each member outlines their responsibilities for the next phase:  
+       - User Interface Designer: Finalize button design and initial prototype.  
+       - Technical Designer: Estimate costs for incorporating new technology.  
+       - Marketing Manager: Conduct further market research.  
+       - Project Manager: Prepare for the next meeting and assess progress.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1006d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+1. **User Feedback and Requirements (5 minutes)**  
+  + **Survey Insights** (2 minutes)  
+    + Discuss user dislikes: colors and complexity.  
+    + Highlight key frustrations: RSI and usability issues.  
+  + **Functionality Preferences** (3 minutes)  
+    + Review essential functions: power, channel, volume.  
+    + Discuss less used functions and potential abandonment of teletext.  
+
+2. **Design Concepts and Materials (10 minutes)**  
+  + **Material and Energy Source Discussion** (5 minutes)  
+    + Evaluate preferences for battery vs. solar energy.  
+    + Discuss material options: titanium, rubber, and plastic.  
+  + **User Interface Design** (5 minutes)  
+    + Review proposed interface: few buttons, speech recognition, and LCD options.  
+    + Discuss the importance of a trendy look-and-feel and user-friendly design.  
+
+3. **Trends and Market Analysis (5 minutes)**  
+  + **Trend Insights** (5 minutes)  
+    + Discuss findings on market preferences for fancy look-and-feel and technological innovation.  
+    + Explore recent fashion trends influencing design choices.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Responsibilities** (5 minutes)  
+    + Confirm individual tasks for design, user interface, and market evaluation.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 4, 'OVR_DOC': 5}"
+ES2005a.json,"**Meeting Agenda: Design Project Progress Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Team Introductions** (2 minutes)  
+     + Each member briefly introduces themselves and their role.  
+   + **Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: review progress, discuss design elements, and assign next steps.  
+
+2. **Design Discussion (10 minutes)**  
+   + **Prototype Presentations** (5 minutes)  
+     + Review the three prototypes presented: fruit-shaped, red ball, and banana dragon.  
+     + Discuss feedback on aesthetics and functionality.  
+   + **Key Design Decisions** (5 minutes)  
+     + Confirm decisions on color (yellow), materials (spongy, rubbery), and features (speech recognition).  
+
+3. **Market Considerations (5 minutes)**  
+   + **Market Research Updates** (5 minutes)  
+     + Discuss findings on competitor products and consumer preferences.  
+     + Evaluate the potential market for the new remote control design.  
+
+4. **Action Items and Next Steps (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Confirm responsibilities for each team member regarding design, research, and reporting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1009d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening Remarks (5 minutes)**  
+   + **Introduction by Project Manager** (2 minutes)  
+     + Overview of meeting objectives and agenda.  
+     + Reminder of roles and responsibilities.  
+   + **Minutes from Previous Meeting** (3 minutes)  
+     + Review key points and decisions made.  
+
+2. **Presentations (15 minutes)**  
+   + **Components Design Overview** (5 minutes)  
+     + Discussion on material specifications: plastic, recyclability, and safety.  
+     + Review of integrated circuit features and energy sources.  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Key features: child-friendly design, button layout, and speech recognition.  
+     + Discussion on user interface aesthetics and functionality.  
+   + **Market Evaluation Insights** (5 minutes)  
+     + Findings on market trends and consumer preferences.  
+     + Discussion on pricing strategy and target demographics.  
+
+3. **Decision Points (10 minutes)**  
+   + **Remote Control Features** (5 minutes)  
+     + Finalize decisions on key functionalities: multi-device control, compact design, and user-friendly features.  
+   + **Budget and Cost Evaluation** (5 minutes)  
+     + Review production cost estimates and budget constraints.  
+     + Discuss potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Outline individual responsibilities based on discussions and decisions made during the meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2010b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals and objectives: design a user-friendly, ergonomic remote control.  
+
+2. **Design Requirements Discussion (10 minutes)**  
+   + **Functional Requirements** (5 minutes)  
+     + Review of essential functions: On/Off, volume control, channel navigation, mute, etc.  
+     + Discussion on user demographics: targeting all ages with minimal tech experience.  
+   + **Design Aesthetics** (5 minutes)  
+     + Considerations for design elements: flashy, ergonomic, and color scheme.  
+     + Logo placement and branding considerations.  
+
+3. **Technical Considerations (10 minutes)**  
+   + **Power Source Options** (5 minutes)  
+     + Discussion on battery types: lithium vs. AA/AAA.  
+     + Consideration of potential for a charging base.  
+   + **Prototype Review** (5 minutes)  
+     + Evaluation of the prototype against design criteria and budget constraints.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members based on discussions: research materials, finalize design elements, prepare for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2006c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Team Overview (5 minutes)**  
+   + **Team Introductions** (3 minutes)  
+     + Each team member briefly introduces themselves and their role in the project.  
+   + **Project Overview** (2 minutes)  
+     + Brief recap of project goals: trendy, user-friendly, and original design.  
+
+2. **Design Specifications Discussion (10 minutes)**  
+   + **Review of Design Concepts** (5 minutes)  
+     + Discussion on the proposed design features: LCD display, voice recognition, and minimalist approach.  
+     + Consideration of target group: ages 15-35.  
+   + **Budget Constraints** (5 minutes)  
+     + Review of production costs and necessary adjustments to meet budget:  
+       - Selling price: €25  
+       - Production cost limit: €12.50  
+       - Decisions on features to cut, such as the scroll wheel and sample speaker.  
+
+3. **Feedback and Issues (5 minutes)**  
+   + **Feedback from Team Members** (3 minutes)  
+     + Open floor for team members to share thoughts on design and functionality.  
+   + **Identifying Problems** (2 minutes)  
+     + Discuss any issues encountered during the design process, including time constraints and unclear role specifications.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign responsibilities for the next phase of the project:  
+       - User Interface Designer: Finalize button design and initial proposal.  
+       - Technical Designer: Estimate costs for new technology.  
+       - Marketing Manager: Conduct further market research.  
+       - Project Manager: Prepare agenda for the next meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2007d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Summary of project goals and current status.  
+
+2. **Design Presentations (10 minutes)**  
+   + **Industrial Design Presentation** (5 minutes)  
+     + Discussion on energy source options: batteries vs. kinetic energy.  
+     + Review of case material choices: rubber and ergonomic design.  
+   + **User Interface Presentation** (5 minutes)  
+     + Options for button types and layout design.  
+     + Decision to focus on a simple, user-friendly interface.  
+
+3. **Marketing Insights (5 minutes)**  
+   + **Marketing Presentation** (5 minutes)  
+     + Overview of survey results regarding user preferences.  
+     + Discussion on branding and aesthetic considerations for the remote.  
+
+4. **Decisions and Next Steps (5 minutes)**  
+   + **Key Decisions** (2 minutes)  
+     + Confirmed decisions on design direction and functionality.  
+   + **Action Items** (3 minutes)  
+     + Assign tasks to team members for the next phase of the project.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2003a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants share their favorite animal and one characteristic.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview and Requirements (10 minutes)**  
+   + **Presentation of Project Goals** (5 minutes)  
+     + Discuss the aim for originality, user-friendliness, and trendy design.  
+     + Review budget constraints: Selling price Euro 25, Production cost max Euro 12.50.  
+   + **Discussion of Key Features** (5 minutes)  
+     + Brainstorm on essential features: joystick functionality, LCD display, ergonomic design.  
+
+3. **Design Decisions and Challenges (10 minutes)**  
+   + **Internal Design Elements** (5 minutes)  
+     + Review decisions on materials: transition from rubber to plastic, single curve design.  
+     + Discuss the removal of the remote locator feature due to budget constraints.  
+   + **External Design Elements** (5 minutes)  
+     + Evaluate the aesthetic aspects: color choices, user interface layout, and market targeting.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Confirm individual responsibilities based on discussions:  
+       - Industrial Designer: Finalize component selection.  
+       - User Interface Designer: Develop user interface concepts.  
+       - Marketing Expert: Research target audience preferences.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2002d.json,"**Meeting Agenda: Remote Control Project Finalization**  
+1. **Introductions and Overview (5 minutes)**  
+  + **Team Introductions** (2 minutes)  
+    + Brief introductions of team members and their roles.  
+  + **Project Overview** (3 minutes)  
+    + Recap of project goals and objectives.  
+
+2. **Design Review (10 minutes)**  
+  + **Final Design Presentation** (5 minutes)  
+    + Overview of the final design: ""snowman"" shape, materials, and color scheme.  
+    + Discussion of key features: functionalities, ergonomics, and aesthetic appeal.  
+  + **Feedback and Adjustments** (5 minutes)  
+    + Gather input from team members on the design and any last-minute adjustments.  
+    + Address any concerns regarding the production cost and features.  
+
+3. **Evaluation Criteria Discussion (5 minutes)**  
+  + **Review Evaluation Metrics** (5 minutes)  
+    + Discuss criteria for evaluating the product against market research and design goals.  
+    + Ensure alignment on the target demographic and marketing strategy.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Final Tasks** (5 minutes)  
+    + Confirm responsibilities for prototype development and marketing preparations.  
+    + Set deadlines for completion and schedule the next meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1009c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Project Overview** (2 minutes)  
+     + Brief introduction of the project and its objectives.  
+     + Overview of team roles and responsibilities.  
+   + **Icebreaker Activity** (3 minutes)  
+     + Participants share their favorite feature of a remote control.  
+
+2. **Design Presentations (15 minutes)**  
+   + **Components Design Presentation** (5 minutes)  
+     + Overview of materials and specifications for the remote control components.  
+     + Discussion on energy sources and recyclability of materials.  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Presentation of user-friendly features and design elements.  
+     + Discussion on child-friendly designs and speech recognition features.  
+   + **Market Evaluation Presentation** (5 minutes)  
+     + Insights on market trends and consumer preferences.  
+     + Discussion on pricing strategy and target audience.  
+
+3. **Decision-Making Session (10 minutes)**  
+   + **Key Feature Decisions** (5 minutes)  
+     + Finalize decisions on essential features, including compactness and functionality.  
+     + Discuss and decide on the inclusion of speech recognition and child lock features.  
+   + **Design Aesthetics Decisions** (5 minutes)  
+     + Confirm decisions on color, shape, and overall design appeal.  
+     + Discuss branding and corporate identity representation in the design.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Outline individual responsibilities for the next phase of the project.  
+     + Set deadlines for prototype development and further evaluations.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 4, 'REL_DOC': 4, 'OVR_DOC': 4}"
+ES2002c.json,"**Meeting Agenda: Remote Control Design Project Review**  
+
+1. **Introductions and Meeting Overview (5 minutes)**  
+  + **Introductions** (2 minutes)  
+    + Brief introductions of team members and their roles.  
+  + **Overview of Meeting Objectives** (3 minutes)  
+    + Outline the goals for the meeting: review design progress, discuss challenges, and finalize decisions.  
+
+2. **Design Progress Updates (10 minutes)**  
+  + **Industrial Design Update** (5 minutes)  
+    + Review of the final design shape and materials used: ""snowman"" shape, plastic & rubber.  
+    + Discussion on the functionality: volume control, power on/off, visual settings, etc.  
+  + **User Interface Update** (5 minutes)  
+    + Presentation of user interface features: button layout, scroll wheel, and backlighting.  
+    + Address any issues related to usability and aesthetics.  
+
+3. **Challenges and Issues (10 minutes)**  
+  + **Budget Constraints Discussion** (5 minutes)  
+    + Review financial limitations impacting design features (e.g., removal of LCD, advanced functions).  
+    + Explore potential solutions to stay within budget while maintaining design integrity.  
+  + **Team Dynamics and Communication** (5 minutes)  
+    + Discuss challenges faced in team collaboration and communication during the project.  
+    + Identify strategies to improve teamwork and information sharing in future projects.  
+
+4. **Final Decisions and Next Steps (5 minutes)**  
+  + **Review of Key Decisions** (3 minutes)  
+    + Confirm final decisions on design elements and functionalities.  
+    + Assign action items for team members based on discussions.  
+  + **Next Meeting Planning** (2 minutes)  
+    + Schedule the next meeting and outline preliminary agenda items.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 4, 'OVR_DOC': 5}"
+ES2005b.json,"**Meeting Agenda: Design Project Discussion**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each team member briefly introduces themselves and their role.  
+   + **Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: discuss design concepts, address issues, and assign tasks.  
+
+2. **Design Concepts Review (10 minutes)**  
+   + **Prototype Presentations** (5 minutes)  
+     + Team members present their prototypes and key features.  
+     + Discuss the aesthetics and functionality of each design.  
+   + **Feedback and Discussion** (5 minutes)  
+     + Open floor for feedback on prototypes and suggestions for improvements.  
+
+3. **Budget and Material Considerations (5 minutes)**  
+   + **Budget Review** (2 minutes)  
+     + Discuss the budget constraints and financial implications of design choices.  
+   + **Material Selection** (3 minutes)  
+     + Review options for materials and their impact on cost and design.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Each team member outlines their next steps based on the discussions and decisions made during the meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1007a.json,"**Meeting Agenda: Remote Control Project Update**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Reminder of time constraints: 40 minutes total.  
+  + **Minutes from Previous Meeting** (3 minutes)  
+    + Brief recap of decisions made and actions assigned.  
+
+2. **Project Requirements and Updates (10 minutes)**  
+  + **Presentation of New Project Requirements** (5 minutes)  
+    + Discussion on the inclusion of speech recognition and user-friendly features.  
+    + Review of market trends and user preferences.  
+  + **Component and Interface Design Updates** (5 minutes)  
+    + Industrial Designer presents findings on materials and functionalities.  
+    + User Interface Designer discusses interface concepts and navigation options.  
+
+3. **Prototype Evaluation (10 minutes)**  
+  + **Review of Prototypes** (5 minutes)  
+    + Presentation of two versions: with and without LCD.  
+    + Discussion on features such as detachable modules and user programmability.  
+  + **Feedback and Comments** (5 minutes)  
+    + Open floor for team feedback on prototypes and design choices.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Tasks** (5 minutes)  
+    + Confirm next steps for each team member based on discussions.  
+    + Set deadlines for individual presentations and further research.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+IS1005b.json,"**Meeting Agenda: Remote Control Project Evaluation**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction of Participants** (2 minutes)  
+    + Brief overview of team members and their roles.  
+  + **Meeting Objectives** (3 minutes)  
+    + Outline the goals for the meeting: review prototype, evaluate project status, and discuss next steps.  
+
+2. **Prototype Presentation (10 minutes)**  
+  + **Industrial Designer Overview** (5 minutes)  
+    + Presentation of the prototype features and design elements.  
+    + Discussion on the use of infrared technology and the banana shape design.  
+  + **User Interface Designer Insights** (5 minutes)  
+    + Explanation of user interface design choices, including button placement and speech recognition features.  
+    + Feedback on user testing results and usability concerns.  
+
+3. **Evaluation Criteria Discussion (10 minutes)**  
+  + **Marketing Expert Presentation** (5 minutes)  
+    + Review of evaluation criteria based on user feedback and market research.  
+    + Discussion on the importance of aesthetics versus functionality.  
+  + **Team Discussion on Project Evaluation** (5 minutes)  
+    + Gather input on the prototype's alignment with project goals and user needs.  
+    + Identify areas for improvement and potential redesigns.  
+
+4. **Financial Review and Budget Discussion (5 minutes)**  
+  + **Budget Overview** (5 minutes)  
+    + Review of production costs and budget constraints.  
+    + Discussion on necessary adjustments to meet financial targets.  
+
+5. **Next Steps and Action Items (5 minutes)**  
+  + **Action Item Assignment** (5 minutes)  
+    + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2008a.json,"**Meeting Agenda: Design Project Review**
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each participant shares their name and role in the project.  
+   + **Project Overview** (3 minutes)  
+     + Brief recap of project goals and current status.
+
+2. **Discussion of Design Prototypes (10 minutes)**  
+   + **Prototype Presentations** (5 minutes)  
+     + Review of selected prototypes and their features.  
+     + Discussion on the pros and cons of each design.  
+   + **Feedback and Adjustments** (5 minutes)  
+     + Gather input from team members on design improvements.  
+     + Discuss any necessary adjustments to meet project criteria.
+
+3. **Market Analysis and User Requirements (10 minutes)**  
+   + **Market Trends Presentation** (5 minutes)  
+     + Overview of current market trends and user preferences.  
+     + Discussion on how these trends influence design decisions.  
+   + **User Requirements Review** (5 minutes)  
+     + Confirm key user requirements and features for the remote control.
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Item Assignments** (5 minutes)  
+     + Assign tasks to team members based on discussions.  
+     + Set deadlines for completion of tasks before the next meeting.
+
+**Total Time:** 30 minutes","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1007c.json,"**Meeting Agenda: Remote Control Design Review**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Reminder of time constraints for the meeting.  
+  + **Minutes from Previous Meeting** (3 minutes)  
+    + Review key decisions and actions from the last meeting.  
+
+2. **Project Requirements and Updates (10 minutes)**  
+  + **Presentation of New Project Requirements** (5 minutes)  
+    + Discuss updated features and functionalities for the remote control.  
+    + Highlight the importance of user-friendly design and cost-effectiveness.  
+  + **Discussion on Component Design** (5 minutes)  
+    + Review findings on materials and energy sources.  
+    + Evaluate the feasibility of proposed components and their impact on design.  
+
+3. **User Interface and Functionality (10 minutes)**  
+  + **User Interface Presentation** (5 minutes)  
+    + Discuss interface design options and user navigation features.  
+    + Explore the integration of speech recognition and its implications.  
+  + **Feedback on Prototypes** (5 minutes)  
+    + Review user feedback on current prototypes and discuss necessary adjustments.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Action Items** (5 minutes)  
+    + Confirm responsibilities for team members based on discussions.  
+    + Set deadlines for individual tasks and prepare for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1005c.json,"**Meeting Agenda: Remote Control Project Evaluation**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction of Participants** (2 minutes)  
+    + Brief overview of roles and responsibilities.  
+    + Reminder of project goals and objectives.  
+  + **Review of Meeting Objectives** (3 minutes)  
+    + Outline the purpose of the meeting: evaluate prototype and discuss financials.  
+
+2. **Prototype Presentation (10 minutes)**  
+  + **Industrial Designer Presentation** (5 minutes)  
+    + Overview of the prototype design and features.  
+    + Discussion on the choice of materials and technology used.  
+  + **User Interface Designer Presentation** (5 minutes)  
+    + Explanation of user interface design and functionality.  
+    + Addressing user feedback and usability considerations.  
+
+3. **Financial Evaluation (10 minutes)**  
+  + **Cost Analysis Presentation** (5 minutes)  
+    + Review of production costs and budget constraints.  
+    + Discussion on cost-saving measures and redesign options if necessary.  
+  + **Budget Approval Discussion** (5 minutes)  
+    + Confirm if the project remains within budget.  
+    + Decisions on any necessary adjustments to meet financial goals.  
+
+4. **Project Evaluation Criteria (5 minutes)**  
+  + **Discussion on Evaluation Metrics** (5 minutes)  
+    + Review of criteria for assessing project success: user satisfaction, functionality, and design appeal.  
+    + Agreement on how to measure and report on these criteria moving forward.  
+
+5. **Next Steps and Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks based on discussions and decisions made during the meeting.  
+    + Set deadlines for completion and follow-up.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2005d.json,"**Meeting Agenda: Design Project Progress Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each team member briefly introduces themselves and their role.  
+   + **Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: review progress, discuss challenges, and plan next steps.  
+
+2. **Project Design Discussion (10 minutes)**  
+   + **Prototype Presentations** (5 minutes)  
+     + Team members present their prototypes and key features.  
+     + Discussion on the aesthetics: colors, shapes, and materials.  
+   + **Feature Evaluation** (5 minutes)  
+     + Review decisions made regarding features: speech recognition, button design, and user-friendliness.  
+     + Discuss any technical limitations and budget constraints.  
+
+3. **Market Research and Competitor Analysis (5 minutes)**  
+   + **Marketing Insights** (3 minutes)  
+     + Raj presents findings on competitor products and market trends.  
+     + Discussion on how to position the product effectively in the market.  
+   + **Next Steps for Research** (2 minutes)  
+     + Assign tasks for further market research and analysis.  
+
+4. **Action Items and Responsibilities (5 minutes)**  
+   + **Action Item Review** (5 minutes)  
+     + Each team member outlines their tasks and deadlines based on the discussions.  
+     + Confirm responsibilities for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2007b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions of Team Members** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Overview of Meeting Objectives** (3 minutes)  
+     + Discuss the progress of the remote control design project.  
+     + Outline key topics for discussion.  
+
+2. **Design Presentations (10 minutes)**  
+   + **Industrial Design Presentation** (5 minutes)  
+     + Discuss energy source options (batteries vs. kinetic energy).  
+     + Review case material options (rubber, ergonomic design).  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Present user interface options and ergonomic considerations.  
+     + Discuss button types and overall functionality.  
+
+3. **Marketing Insights (5 minutes)**  
+   + **Marketing Presentation** (5 minutes)  
+     + Review survey results on user preferences and trends.  
+     + Discuss branding elements (colors, logo) and market positioning.  
+
+4. **Decisions and Next Steps (5 minutes)**  
+   + **Review of Key Decisions Made** (3 minutes)  
+     + Confirm decisions on design simplicity, energy source, and user interface.  
+   + **Action Items for Team Members** (2 minutes)  
+     + Assign tasks for prototype development and further research.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2002a.json,"**Meeting Agenda: Remote Control Project Finalization**  
+
+1. **Introductions and Meeting Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Meeting Objectives** (3 minutes)  
+     + Outline the goals for finalizing the remote control design and evaluating the project.
+
+2. **Design Review (10 minutes)**  
+   + **Final Design Presentation** (5 minutes)  
+     + Overview of the final design features: ""snowman"" shape, materials used, and functionalities.  
+     + Discussion on the design's alignment with target market preferences (15-35 age group).  
+   + **Evaluation of Design Constraints** (5 minutes)  
+     + Review financial constraints and their impact on design decisions (e.g., removal of LCD, advanced features).  
+     + Discuss feedback from team members on the design process and areas for improvement.
+
+3. **Next Steps and Action Items (5 minutes)**  
+   + **Action Item Assignments** (5 minutes)  
+     + Confirm responsibilities for final prototype adjustments and evaluations.  
+     + Set deadlines for any remaining tasks before project completion.
+
+**Total Time:** 20 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1001b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Welcome and Overview** (2 minutes)  
+     + Brief introduction of the meeting purpose and agenda.  
+     + Assign Project Manager as secretary for minutes.  
+   + **Participant Introductions** (3 minutes)  
+     + Quick introductions of team members and their roles.  
+
+2. **Project Requirements Discussion (10 minutes)**  
+   + **New Project Requirements** (5 minutes)  
+     + Discuss the decision to limit remote control functions to television only to ensure timely market delivery.  
+     + Review the need for corporate image consistency in design, including colors and slogans.  
+   + **Remote Control Functionality** (5 minutes)  
+     + Evaluate the proposed simple interface features: channel wheel, volume controls, and on/off functionality.  
+     + Discuss user feedback on design preferences and frustrations with current remote controls.  
+
+3. **Design Presentations (15 minutes)**  
+   + **Components Design Presentation** (5 minutes)  
+     + Overview of standard chip and button selections for the remote control.  
+     + Discuss findings from case studies on wheel sensors and button preferences.  
+   + **Interface Concept Presentation** (5 minutes)  
+     + Presentation of user interface design focusing on simplicity and robustness.  
+     + Review proposed changes to button layout and functionality.  
+   + **Evaluation Criteria Presentation** (5 minutes)  
+     + Discuss evaluation criteria based on user requirements and market trends.  
+     + Highlight the importance of aesthetics, usability, and innovation in design.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members based on discussions, including design collaboration and prototype development.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2007c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Meeting Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Overview of Meeting Objectives** (3 minutes)  
+     + Outline the purpose of the meeting and key topics to be discussed.  
+
+2. **Design Presentations (10 minutes)**  
+   + **Industrial Design Presentation** (5 minutes)  
+     + Discuss energy source options: batteries vs. kinetic energy.  
+     + Review case material decisions: rubber and ergonomic design.  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Present user interface options: simple vs. complex functionality.  
+     + Discuss ergonomic considerations and button types.  
+
+3. **Marketing Insights (5 minutes)**  
+   + **Marketing Presentation** (5 minutes)  
+     + Review survey results on user preferences for remote design.  
+     + Discuss branding elements: colors, logo, and market positioning.  
+
+4. **Discussion of Key Decisions (5 minutes)**  
+   + **Decisions Review** (5 minutes)  
+     + Confirm decisions made regarding design simplicity and functionality.  
+     + Discuss any additional features or changes based on presentations.  
+
+5. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1006b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **User Feedback and Requirements (5 minutes)**  
+  + **Survey Results Overview** (2 minutes)  
+    + Discuss user dislikes: colors and complexity.  
+    + Highlight user frustrations: RSI and difficulty in use.  
+  + **Key Functions Discussion** (3 minutes)  
+    + Identify essential functions: power, channel, volume.  
+    + Consider less used functions: audio, screen, teletext.  
+
+2. **Design Concepts (10 minutes)**  
+  + **Material and Energy Source Discussion** (5 minutes)  
+    + Evaluate preferences for battery vs. solar energy.  
+    + Discuss material options: titanium, rubber, and plastic.  
+  + **User Interface and Features** (5 minutes)  
+    + Review proposed features: speech recognition and button simplicity.  
+    + Discuss LCD usage and color options for the remote control.  
+
+3. **Trends and Market Analysis (5 minutes)**  
+  + **Trend Insights Presentation** (3 minutes)  
+    + Discuss the importance of fancy look-and-feel and technological innovation.  
+    + Review recent fashion trends influencing design choices.  
+  + **User Preferences Summary** (2 minutes)  
+    + Summarize key findings from user preferences on remote control aesthetics and functionality.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities based on discussions:  
+      - ID: Components concept  
+      - UID: User interface concept  
+      - ME: Trend watching and market evaluation  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1004d.json,"**Meeting Agenda: Mando Remote Control Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Welcome and Overview** (2 minutes)  
+     + Brief introduction of the meeting purpose and agenda.  
+   + **Participant Introductions** (3 minutes)  
+     + Each participant shares their role and contributions to the project.  
+
+2. **Project Status Updates (10 minutes)**  
+   + **Functional Design Review** (5 minutes)  
+     + Summary of decisions made regarding the remote control's functionalities.  
+     + Discussion on the exclusion of speech recognition and LCD features.  
+   + **Conceptual Design Insights** (5 minutes)  
+     + Presentation of the banana look-and-feel concept and its implications.  
+     + Review of the proposed features: wheels for volume/channel, turbo button, and base station.  
+
+3. **Cost Evaluation and Budget Review (10 minutes)**  
+   + **Production Cost Analysis** (5 minutes)  
+     + Presentation of the current production cost (11.6 EUR) and budget constraints.  
+     + Discussion on potential adjustments to meet budget requirements.  
+   + **Future Cost Considerations** (5 minutes)  
+     + Explore options for enhancing features without exceeding budget.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+   + **Action Item Assignments** (5 minutes)  
+     + Review individual responsibilities for the next phase of the project.  
+     + Set deadlines for upcoming tasks and confirm next meeting date.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2010a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions of Team Members** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals: design a user-friendly, ergonomic remote control.  
+     + Discussion of target audience and market expectations.  
+
+2. **Design Requirements Discussion (10 minutes)**  
+   + **Functional Requirements** (5 minutes)  
+     + Review of essential functions: On/Off, volume control, channel navigation, mute, etc.  
+     + Discussion on additional features: voice activation, user-friendly guide, and logo placement.  
+   + **Design Aesthetics** (5 minutes)  
+     + Discussion on design elements: color scheme, button layout, and overall style.  
+     + Consideration of materials and production costs.  
+
+3. **Challenges and Issues (5 minutes)**  
+   + **Identifying Problems** (3 minutes)  
+     + Address unresolved issues: power source options, material selection, and logo visibility.  
+   + **Feedback from Team Members** (2 minutes)  
+     + Open floor for team members to express concerns or suggestions.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assigning Tasks** (5 minutes)  
+     + Outline next steps for each team member based on discussions.  
+     + Set deadlines for individual research and design proposals.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1009b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Reminder of roles and responsibilities.  
+  + **Minutes from Previous Meeting** (3 minutes)  
+    + Review of key decisions and actions taken since the last meeting.  
+
+2. **Project Presentations (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Overview of materials and specifications for the remote control.  
+    + Discussion on energy sources and component choices.  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Presentation of interface features and child-friendly design elements.  
+    + Discussion on voice recognition and button layout.  
+  + **Market Evaluation Presentation** (5 minutes)  
+    + Insights on market trends and consumer preferences.  
+    + Discussion on pricing strategy and target demographics.  
+
+3. **Decision-Making Session (10 minutes)**  
+  + **Review of Key Features** (5 minutes)  
+    + Finalize decisions on remote control functionalities and design elements.  
+    + Confirm the inclusion of speech recognition and compact design.  
+  + **Budget and Production Costs** (5 minutes)  
+    + Evaluate production costs against budget constraints.  
+    + Discuss potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities for the next phase of the project.  
+    + Set deadlines for prototype development and market testing.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1001d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Agenda Overview** (2 minutes)  
+    + Brief outline of meeting objectives and structure.  
+  + **Participant Introductions** (3 minutes)  
+    + Quick introductions of team members and their roles.  
+
+2. **Project Requirements Discussion (10 minutes)**  
+  + **New Project Requirements** (5 minutes)  
+    + Discuss the shift from teletext to internet-based functions.  
+    + Confirm that the remote control will be limited to television functions to maintain simplicity.  
+  + **Corporate Image and Design Elements** (5 minutes)  
+    + Review the importance of incorporating corporate colors and slogans.  
+    + Discuss user preferences for design: trendy, original, and user-friendly.  
+
+3. **Design Presentations (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Overview of standard components and findings from case studies.  
+  + **Interface Concept Presentation** (5 minutes)  
+    + Discussion on user interface design and material selection.  
+  + **Evaluation Criteria Presentation** (5 minutes)  
+    + Review of user requirements and market trends influencing design decisions.  
+
+4. **Decision-Making on Key Features (5 minutes)**  
+  + **Remote Control Functions** (5 minutes)  
+    + Finalize decisions on essential functions such as channel selection and volume control.  
+    + Discuss the feasibility of additional features based on user feedback.  
+
+5. **Next Steps and Individual Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks to team members based on discussions and presentations.  
+    + Confirm deadlines and expectations for the next meeting.  
+
+**Total Time:** 40 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1003b.json,"**Meeting Agenda: Remote Control Project Design Review**  
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Overview** (2 minutes)  
+    + Brief introduction of the project and its objectives.  
+    + Outline of the meeting structure and goals.  
+  + **Participant Introductions** (3 minutes)  
+    + Each participant shares their role in the project.  
+
+2. **Design Presentations (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Overview of power sources and materials proposed for the remote control.  
+    + Discussion on the case design and interface options.  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Presentation of three UI concepts: Google, Fancy, and Intelligent controllers.  
+    + Discussion on user experience and functionality.  
+  + **Evaluation Criteria Presentation** (5 minutes)  
+    + Review of evaluation criteria for the remote control design.  
+    + Discussion on findings from user studies and market trends.  
+
+3. **Key Decisions and Discussions (10 minutes)**  
+  + **Decision on Remote Control Features** (5 minutes)  
+    + Finalize decisions on the number of buttons and overall functionality.  
+    + Discuss the integration of advanced features like voice recognition.  
+  + **Cost and Material Considerations** (5 minutes)  
+    + Review production costs and material choices to meet budget constraints.  
+    + Discuss implications of design changes on cost and user experience.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Tasks** (5 minutes)  
+    + Outline individual responsibilities for the next phase of the project.  
+    + Set deadlines for deliverables and schedule the next meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1004c.json,"**Meeting Agenda: Mando Remote Control Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Welcome and Overview** (2 minutes)  
+     + Brief introduction of the meeting purpose and agenda.  
+     + Acknowledge new participants and their roles.  
+   + **Review of Previous Meeting Minutes** (3 minutes)  
+     + Summary of key decisions made in the last meeting.  
+     + Address any outstanding action items.  
+
+2. **Project Status Updates (10 minutes)**  
+   + **Functional Design Review** (5 minutes)  
+     + Discuss the finalized features: two wheels for volume and channel, turbo button, teletext mode.  
+     + Review the decision to exclude LCD and speech recognition due to cost.  
+   + **Conceptual Design Insights** (5 minutes)  
+     + Present the banana look-and-feel concept and its market appeal.  
+     + Discuss the basis station functionality for remote location and charging.  
+
+3. **Cost Evaluation and Production Feasibility (10 minutes)**  
+   + **Cost Analysis Presentation** (5 minutes)  
+     + Review the production cost findings (11.6 EUR) and budget constraints.  
+     + Discuss implications of costs on design features and market positioning.  
+   + **Production Readiness Discussion** (5 minutes)  
+     + Confirm readiness to move forward with production based on current evaluations.  
+     + Identify any last-minute adjustments needed before production.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members for the next phase of the project.  
+     + Set deadlines for individual contributions and establish follow-up meeting schedule.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1003d.json,"**Meeting Agenda: Remote Control Project Design Review**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Reminder of roles and responsibilities.  
+  + **Minutes from Previous Meeting** (3 minutes)  
+    + Brief recap of decisions and actions from the last meeting.  
+
+2. **Design Presentations (15 minutes)**  
+  + **Components Design Presentation** (7 minutes)  
+    + Discussion on power sources and materials for the remote control.  
+    + Review of case design options and interface elements.  
+  + **User Interface Design Presentation** (8 minutes)  
+    + Presentation of UI concepts: “Google” controller, “Fancy” controller, and “Intelligent” controller.  
+    + Discussion on user preferences and functionality.  
+
+3. **Evaluation Criteria Discussion (10 minutes)**  
+  + **Evaluation of Prototype** (5 minutes)  
+    + Review of evaluation criteria: fancy look, technological innovation, ease of use.  
+    + Discussion on feedback received from prototype testing.  
+  + **Cost Analysis** (5 minutes)  
+    + Review of production costs and budget constraints.  
+    + Discussion on potential redesigns to meet cost targets.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Individual Tasks** (5 minutes)  
+    + Confirm responsibilities for design revisions and further research.  
+    + Set deadlines for next deliverables and schedule the next meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 4, 'OVR_DOC': 5}"
+IS1006a.json,"**Meeting Agenda: Remote Control Design Review**  
+
+1. **User Feedback Overview (5 minutes)**  
+  + **Survey Insights** (2 minutes)  
+    + Users dislike current colors and find them complicated.  
+    + Key frustrations include RSI and difficulty in usage.  
+  + **Functionality Preferences** (3 minutes)  
+    + Most used functions: Power, channel, volume; less used: audio, screen, teletext.  
+    + Discussion on targeting young users with fewer buttons and speech recognition features.  
+
+2. **Design Concepts Discussion (10 minutes)**  
+  + **Material and Energy Source** (5 minutes)  
+    + Preferences for titanium and battery vs. solar energy.  
+    + Discussion on the feasibility of speech recognition and its integration.  
+  + **User Interface Design** (5 minutes)  
+    + Review of proposed button designs and LCD options.  
+    + Consideration of color choices and the concept of a ""smart device.""  
+
+3. **Trend Analysis and Market Positioning (5 minutes)**  
+  + **Current Trends** (2 minutes)  
+    + Importance of fancy look-and-feel and technological innovation.  
+    + Discussion on recent fashion trends influencing design choices.  
+  + **User Expectations** (3 minutes)  
+    + Insights on user preferences for aesthetics and functionality.  
+    + Strategies for enhancing user experience based on feedback.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities for prototype development and design refinement.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 4, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2003c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions of Team Members** (2 minutes)  
+     + Each member shares their role and a brief update on their tasks.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals and current status: focus on user-friendly design and budget constraints.  
+
+2. **Design Decisions Review (10 minutes)**  
+   + **Functionality and Features Discussion** (5 minutes)  
+     + Review decisions on remote control functions: joystick, LCD display, and button layout.  
+     + Discuss the implications of removing features like voice recognition and localization.  
+   + **Material and Aesthetic Choices** (5 minutes)  
+     + Confirm decisions on materials: plastic vs. rubber, color schemes, and ergonomic design considerations.  
+
+3. **Budget and Cost Analysis (10 minutes)**  
+   + **Cost Evaluation Presentation** (5 minutes)  
+     + Review current production costs and budget constraints.  
+     + Discuss potential areas for cost reduction without compromising functionality.  
+   + **Action Items for Cost Management** (5 minutes)  
+     + Assign tasks for further cost analysis and material sourcing.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Individual Action Plans** (5 minutes)  
+     + Each team member outlines their next steps based on discussions and decisions made during the meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1009a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Purpose** (2 minutes)  
+    + Brief overview of the meeting objectives and agenda.  
+  + **Participant Introductions** (3 minutes)  
+    + Each participant shares their role and contributions to the project.  
+
+2. **Project Requirements and Features Discussion (10 minutes)**  
+  + **Review of New Project Requirements** (5 minutes)  
+    + Discuss the compact design and multi-functionality of the remote control.  
+    + Address the need for a locating mechanism for misplaced remotes.  
+  + **Decision on Key Features** (5 minutes)  
+    + Finalize decisions on remote control functions: speech recognition, child lock, and user-friendly design.  
+
+3. **Component Specifications and Design Review (10 minutes)**  
+  + **Components Presentation** (5 minutes)  
+    + Overview of materials and components: case design, integrated circuits, and energy sources.  
+  + **User Interface and Look & Feel** (5 minutes)  
+    + Discuss the interface design elements and aesthetic considerations.  
+
+4. **Evaluation Criteria and Market Strategy (5 minutes)**  
+  + **Evaluation Criteria Discussion** (3 minutes)  
+    + Review criteria for marketability and user satisfaction.  
+  + **Marketing Strategy Overview** (2 minutes)  
+    + Discuss strategies for launching the product and reaching target demographics.  
+
+5. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Action Items** (5 minutes)  
+    + Outline tasks for each participant based on discussions and decisions made during the meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2010c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals and objectives: design a user-friendly, ergonomic remote control.  
+
+2. **Design Requirements Discussion (10 minutes)**  
+   + **Functional Requirements** (5 minutes)  
+     + Review of essential functions: On/Off, volume control, channel navigation, mute, etc.  
+     + Discussion on compatibility with devices: TV, DVD, sound systems, etc.  
+   + **Design Aesthetics** (5 minutes)  
+     + Discussion on design elements: ergonomic shape, color scheme, button layout, and logo placement.  
+
+3. **Technical Considerations (10 minutes)**  
+   + **Power Source Options** (5 minutes)  
+     + Discussion on battery types: lithium vs. AA/AAA, and potential for a charging base.  
+   + **Technology Integration** (5 minutes)  
+     + Consideration of voice recognition technology and smart chips for enhanced functionality.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items** (5 minutes)  
+     + Assign tasks to team members based on discussions: research materials, finalize design elements, and prepare for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1004b.json,"**Meeting Agenda: Mando Remote Control Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Welcome and Overview** (2 minutes)  
+     + Brief introduction of the project and its objectives.  
+     + Overview of the meeting agenda.  
+   + **Participant Introductions** (3 minutes)  
+     + Each participant shares their role in the project.  
+
+2. **Project Status Updates (10 minutes)**  
+   + **Functional Design Review** (5 minutes)  
+     + Summary of decisions made regarding the remote control's functionality.  
+     + Discussion on the exclusion of speech recognition and LCD features.  
+   + **Conceptual Design Insights** (5 minutes)  
+     + Presentation of the banana design concept and its implications.  
+     + Review of user interface options: scroll wheels and buttons.  
+
+3. **Cost Evaluation and Budget Discussion (10 minutes)**  
+   + **Production Cost Analysis** (5 minutes)  
+     + Presentation of the current cost analysis and budget constraints.  
+     + Discussion on the feasibility of production under the current budget.  
+   + **Future Cost Considerations** (5 minutes)  
+     + Explore potential cost-saving measures and additional features.  
+     + Discussion on market pricing strategy for the remote control.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+   + **Action Item Assignments** (5 minutes)  
+     + Review of individual responsibilities and deadlines for the next phase of the project.  
+     + Confirm next meeting date and objectives.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1003c.json,"**Meeting Agenda: Remote Control Project Design Review**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Reminder of roles and responsibilities.  
+  + **Review of Previous Meeting Minutes** (3 minutes)  
+    + Summary of key decisions made in the last meeting.  
+    + Address any outstanding action items.  
+
+2. **Design Presentations (15 minutes)**  
+  + **Industrial Design Presentation** (7 minutes)  
+    + Discussion on component choices: materials, shape, and energy sources.  
+    + Evaluation of cost implications and design feasibility.  
+  + **User Interface Design Presentation** (8 minutes)  
+    + Presentation of UI concepts: functionality and user experience.  
+    + Discussion on integration of advanced features (e.g., voice recognition).  
+
+3. **Market Evaluation and Feedback (10 minutes)**  
+  + **Marketing Expert Insights** (5 minutes)  
+    + Review of user preferences and market trends.  
+    + Discussion on branding and corporate image alignment.  
+  + **Open Floor for Team Feedback** (5 minutes)  
+    + Team members share thoughts on design and market alignment.  
+    + Address any concerns regarding user needs and product appeal.  
+
+4. **Decision Making and Next Steps (10 minutes)**  
+  + **Key Decisions on Design Elements** (5 minutes)  
+    + Finalize decisions on materials, functionalities, and aesthetics.  
+    + Confirm budget constraints and cost targets.  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign specific tasks to team members based on discussions.  
+    + Set deadlines for the next phase of the project.  
+
+**Total Time:** 40 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1001a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+  + **Welcome and Purpose** (2 minutes)  
+    + Brief overview of the meeting objectives and agenda.  
+  + **Participant Introductions** (3 minutes)  
+    + Quick introductions of team members and their roles in the project.  
+
+2. **Project Requirements Discussion (10 minutes)**  
+  + **New Project Requirements** (5 minutes)  
+    + Discuss the decision to limit the remote control functions to television only.  
+    + Review the need for corporate branding in design: colors and slogans.  
+  + **Remote Control Functionality** (5 minutes)  
+    + Evaluate the proposed simple interface: channel wheel, volume controls, and ease of use.  
+    + Discuss findings from user research regarding preferences and frustrations.  
+
+3. **Design Presentations (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Overview of standard chip and button selections for the remote control.  
+    + Discuss cost-effective solutions and findings from case studies.  
+  + **Interface Concept Presentation** (5 minutes)  
+    + Present the proposed user interface design and its usability features.  
+    + Discuss the rationale behind the design choices, including material selection.  
+  + **Evaluation Criteria Presentation** (5 minutes)  
+    + Review the evaluation criteria based on user requirements and market trends.  
+    + Discuss how these criteria will guide the design process.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks based on presentations and discussions, including design prototyping and evaluations.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 4, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2009c.json,"**Meeting Agenda: Remote Control Project Kickoff**  
+1. **Introductions and Icebreaker (5 minutes)**  
+  + **Introductions** (2 minutes)  
+    + Each participant shares their name and role in the project.  
+  + **Icebreaker Activity** (3 minutes)  
+    + Participants share their favorite TV show and why they enjoy it.  
+
+2. **Project Overview (10 minutes)**  
+  + **Project Goals Presentation** (5 minutes)  
+    + Discuss the aim: create a trendy, user-friendly remote control priced at 25 Euro with production costs under 12.50 Euro.  
+    + Outline the target market and key features to focus on (e.g., voice recognition, intuitive design).  
+  + **Discussion on Design Approach** (5 minutes)  
+    + Explore initial ideas for the remote control design and functionality.  
+    + Address potential challenges and constraints (e.g., material limitations, feature prioritization).  
+
+3. **Tool Training (5 minutes)**  
+  + **Training on Collaboration Tools** (5 minutes)  
+    + Overview of tools to be used for project collaboration (e.g., whiteboard, document sharing).  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities moving forward based on discussions.  
+    + Set deadlines for initial design concepts and research.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 4, 'REL_DOC': 3, 'OVR_DOC': 5}"
+ES2004a.json,"**Meeting Agenda: Final Design Review for Remote Control Project**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants draw their favorite animal and describe it in three adjectives.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview and Design Decisions (10 minutes)**  
+   + **Presentation of Design Concepts** (5 minutes)  
+     + Discuss trendy and user-friendly design elements: vibrant colors, rubber casing, and LCD touch screen.  
+     + Review decisions on components: TA11835 chip, kinetic battery, and anti-RSI rubberized buttons.  
+   + **Discussion on Target Audience** (5 minutes)  
+     + Identify target demographics and marketing strategies.  
+     + Address any concerns regarding design accessibility and usability.
+
+3. **Budget and Cost Analysis (5 minutes)**  
+   + **Budget Review** (3 minutes)  
+     + Discuss budget constraints and their impact on design features, including the removal of voice recognition.  
+   + **Cost Management Strategies** (2 minutes)  
+     + Explore potential cost-saving measures while maintaining design integrity.
+
+4. **Next Steps and Actions (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members for finalizing the design and preparing for production.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+ES2008d.json,"**Meeting Agenda: TV Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions of Team Members** (2 minutes)  
+     + Each member briefly introduces themselves and their role.  
+   + **Overview of Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: review progress, discuss design decisions, and set next steps.  
+
+2. **Project Goals and Design Features (10 minutes)**  
+   + **Discussion of Project Goals** (5 minutes)  
+     + Confirm project aims: simplicity, usability, and fashion.  
+     + Review financial targets: selling price and production costs.  
+   + **Design Feature Brainstorming** (5 minutes)  
+     + Discuss key features: large buttons, anti-loss device, and color schemes.  
+     + Evaluate feedback from previous meetings on design prototypes.  
+
+3. **Challenges and Issues (5 minutes)**  
+   + **Identify Current Challenges** (3 minutes)  
+     + Discuss issues with information access and design clarity.  
+     + Address concerns regarding target market definition and product functionality.  
+   + **Propose Solutions** (2 minutes)  
+     + Brainstorm potential solutions to identified challenges.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assign Action Items** (5 minutes)  
+     + Each team member outlines their tasks before the next meeting, including design components and market research.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+ES2004c.json,"**Meeting Agenda: Final Design Review for Remote Control Project**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants draw their favorite animal and describe it in three adjectives.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview (10 minutes)**  
+   + **Project Manager Presentation** (5 minutes)  
+     + Recap of project goals: trendy, original, and user-friendly design.  
+     + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+   + **Discussion of Key Features** (5 minutes)  
+     + Review of main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+3. **Design Decisions (10 minutes)**  
+   + **Internal Design Elements** (5 minutes)  
+     + Discussion on the internal components and design features.  
+     + Decisions on materials: rubber casing, LCD display, anti-RSI buttons.  
+   + **External Design Elements** (5 minutes)  
+     + Review of external design considerations and target audience.  
+     + Decisions on color schemes and branding elements.  
+
+4. **Next Steps and Actions (5 minutes)**  
+   + **Action Items** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 4, 'REL_DOC': 5, 'OVR_DOC': 2}"
+ES2006b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Team Introductions** (2 minutes)  
+     + Each member briefly introduces themselves and their role in the project.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals: trendy, user-friendly, and original design.  
+     + Outline of financial constraints: Selling price Euro 25, Production cost: Euro 12.5.  
+
+2. **Design Specifications Discussion (10 minutes)**  
+   + **Components and Features** (5 minutes)  
+     + Review of key components: LCD, voice recognition, minimalist design.  
+     + Discussion on functionality: volume, channel, power buttons, and user interface.  
+   + **Budget Considerations** (5 minutes)  
+     + Evaluate cost implications of design choices and necessary adjustments.  
+     + Decisions on which features to prioritize based on budget constraints.  
+
+3. **Feedback and Next Steps (5 minutes)**  
+   + **Feedback from Team Members** (3 minutes)  
+     + Open floor for team members to share thoughts on design and functionality.  
+   + **Action Items** (2 minutes)  
+     + Assign responsibilities for the next phase of the project and set deadlines.  
+
+**Total Time:** 20 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1001c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+  + **Overview of Meeting Objectives** (2 minutes)  
+    + Clarify the purpose of the meeting and expected outcomes.  
+    + Assign the Project Manager as secretary for minutes.  
+  + **Participant Introductions** (3 minutes)  
+    + Brief introductions of team members and their roles in the project.  
+
+2. **Presentations on Design Concepts (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Review of standard chip and wheel sensor findings.  
+    + Discussion on off-the-shelf components and their implications.  
+  + **User Interface Concept Presentation** (5 minutes)  
+    + Overview of the proposed simple interface design.  
+    + Key features: channel wheel, volume controls, and robustness.  
+  + **Evaluation Criteria Presentation** (5 minutes)  
+    + Discussion on user requirements and market trends.  
+    + Criteria for evaluation: fancy look-and-feel, technological innovation, and ease of use.  
+
+3. **Discussion on Project Requirements (10 minutes)**  
+  + **New Project Requirements** (5 minutes)  
+    + Address the need for a recognizable corporate image and color.  
+    + Decision on limiting remote control functions to television only.  
+  + **Decision on Remote Control Functions** (5 minutes)  
+    + Finalize decisions regarding functionalities and features based on presentations and discussions.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks to team members based on discussions:  
+      - ID: components concept  
+      - UID: user interface design  
+      - ME: trend watching  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 4}"
+ES2003d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants share their favorite animal and describe its characteristics.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview and Requirements (10 minutes)**  
+   + **Project Manager Presentation** (5 minutes)  
+     + Recap of project goals: original, trendy, and user-friendly design.  
+     + Review of budget constraints: Selling price Euro 25, Production cost max Euro 12.50.  
+   + **Discussion of Key Features** (5 minutes)  
+     + Review of decisions made: LCD display, joystick functionality, and ergonomic design.  
+     + Address issues: lost remote locator and material choices due to cost constraints.  
+
+3. **Design Decisions and Challenges (10 minutes)**  
+   + **Internal Design Elements** (5 minutes)  
+     + Discussion on the use of off-the-shelf components and ergonomic considerations.  
+     + Review of functionality: single vs. double curve design and button layout.  
+   + **External Design Elements** (5 minutes)  
+     + Consideration of market trends and target audience for the remote control.  
+     + Addressing the feasibility of proposed designs and materials.  
+
+4. **Next Steps and Actions (5 minutes)**  
+   + **Action Items** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+     + Set deadlines for individual contributions and research for the next meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1004a.json,"**Meeting Agenda: MANDO Project Design Review**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction of Participants** (2 minutes)  
+    + Brief introductions of team members and their roles.  
+  + **Overview of Meeting Objectives** (3 minutes)  
+    + Outline the goals for the meeting and expected outcomes.  
+
+2. **Project Updates (10 minutes)**  
+  + **Functional Design Review** (5 minutes)  
+    + Discuss the finalized features of the MANDO remote control:  
+      + Two scroll wheels for volume and channel control.  
+      + Turbo button and teletext mode button.  
+  + **Conceptual Design Insights** (5 minutes)  
+    + Review the banana design concept and its market appeal.  
+    + Discuss the decision against using LCD and ASR technologies due to cost concerns.  
+
+3. **Cost Evaluation (10 minutes)**  
+  + **Production Cost Analysis** (5 minutes)  
+    + Present the cost breakdown and confirm it is under the target of 12.5 EUR.  
+  + **Budget Considerations** (5 minutes)  
+    + Discuss potential adjustments to the budget and implications for features.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Individual Tasks** (5 minutes)  
+    + Confirm responsibilities for prototype development and marketing survey.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1008c.json,"**Meeting Agenda: Remote Control Design Project Update**  
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction of Participants** (2 minutes)  
+    + Brief overview of team members and their roles.  
+  + **Meeting Objectives** (3 minutes)  
+    + Outline the goals for the meeting and expected outcomes.  
+
+2. **Presentations (15 minutes)**  
+  + **Components Design Overview** (5 minutes)  
+    + Discussion on materials and components: rubber, plastic, titanium, and wood.  
+    + Evaluation of chip on print technology and its implications.  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Key functionalities: on/off switch, volume control, and ergonomic design.  
+    + Discussion on voice recognition and its integration.  
+  + **Market Evaluation and Trends** (5 minutes)  
+    + Overview of market trends and consumer preferences.  
+    + Discussion on pricing strategy and production cost analysis.  
+
+3. **Decision Points (10 minutes)**  
+  + **Remote Control Features** (5 minutes)  
+    + Finalize decisions on key features: speech recognition, ergonomic design, and materials.  
+  + **Budget and Production Feasibility** (5 minutes)  
+    + Review budget constraints and production timelines.  
+    + Discuss potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Individual Actions (5 minutes)**  
+  + **Action Items Assignment** (5 minutes)  
+    + Assign tasks to team members based on discussions:  
+      - Christine to refine functional design.  
+      - Agnes to finalize user interface details.  
+      - ED to develop marketing strategy.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2008b.json,"**Meeting Agenda: Television Remote Control Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each team member briefly introduces themselves and their role.  
+   + **Project Overview** (3 minutes)  
+     + Recap of project goals, aims, and financial considerations.  
+
+2. **Design Discussions (10 minutes)**  
+   + **Functional Design Presentation** (5 minutes)  
+     + Review of core features: simplicity, usability, and fashion.  
+     + Discussion of key design elements: large buttons, anti-loss device, and battery type.  
+   + **Prototype Evaluation** (5 minutes)  
+     + Presentation of prototypes and selection of the final design.  
+     + Discussion of color schemes and materials for the final product.  
+
+3. **Challenges and Solutions (5 minutes)**  
+   + **Identifying Issues** (3 minutes)  
+     + Discussion of any problems encountered during the design process, including time management and information access.  
+   + **Proposed Solutions** (2 minutes)  
+     + Brainstorming potential solutions to identified issues.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Review** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1003a.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+  + **Project Overview** (2 minutes)  
+    + Brief introduction of the project goals: trendy, user-friendly remote control.  
+    + Overview of team roles and responsibilities.  
+  + **Icebreaker Activity** (3 minutes)  
+    + Participants share their favorite animal and describe it in three adjectives.  
+
+2. **Design Presentations (15 minutes)**  
+  + **Components Design Presentation** (5 minutes)  
+    + Overview of power sources and materials: battery, solar cells, and case design.  
+    + Discussion on interface options: push buttons vs. LCD display.  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Presentation of three concepts: “Google” controller, “Fancy” controller, and “Intelligent” controller.  
+    + Discussion on user preferences and functionality.  
+  + **Prototype Presentation** (5 minutes)  
+    + Showcase of the prototype design and key features.  
+    + Evaluation criteria and feedback from team members.  
+
+3. **Decision-Making on Key Features (10 minutes)**  
+  + **Functionality Discussion** (5 minutes)  
+    + Decisions on remote control functions: wireless vs. wired, integration of voice recognition.  
+    + Discussion on the balance between cost and functionality.  
+  + **Design Aesthetics Discussion** (5 minutes)  
+    + Finalizing color, shape, and materials for the remote control.  
+    + Ensuring alignment with corporate image and user preferences.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Action Assignments** (5 minutes)  
+    + Assign tasks to team members based on discussions and decisions made during the meeting.  
+    + Set deadlines for individual contributions and next meeting schedule.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 1}"
+IS1008b.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Opening and Introductions (5 minutes)**  
+   + **Opening Remarks** (2 minutes)  
+     + Overview of meeting objectives and agenda.  
+   + **Participant Introductions** (3 minutes)  
+     + Brief introductions of team members and their roles in the project.  
+
+2. **Project Presentations (15 minutes)**  
+   + **Components Design Presentation** (5 minutes)  
+     + Review of proposed materials and components for the remote control.  
+     + Discussion on the feasibility of using advanced chips and new materials.  
+   + **User Interface Design Presentation** (5 minutes)  
+     + Overview of user interface functionalities and design considerations.  
+     + Discussion on the integration of speech recognition features.  
+   + **Market Evaluation and Trends Presentation** (5 minutes)  
+     + Insights on market trends and consumer preferences for remote controls.  
+     + Discussion on pricing strategy and target market analysis.  
+
+3. **Decision-Making Session (10 minutes)**  
+   + **Key Design Decisions** (5 minutes)  
+     + Finalize decisions on components, user interface features, and design aesthetics.  
+   + **Budget and Production Feasibility** (5 minutes)  
+     + Review of budget constraints and production timelines.  
+     + Discussion on potential redesigns if costs exceed budget.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Assigning Responsibilities** (5 minutes)  
+     + Outline individual action items and deadlines for team members.  
+     + Confirm next meeting date and objectives.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 4, 'INF_DOC': 5, 'REL_DOC': 4, 'OVR_DOC': 4}"
+ES2010d.json,"**Meeting Agenda: Remote Control Design Project Update**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Brief introductions of team members and their roles.  
+   + **Project Overview** (3 minutes)  
+     + Summary of project goals and design requirements.  
+
+2. **Design Requirements Discussion (10 minutes)**  
+   + **Functional Requirements** (5 minutes)  
+     + Discuss essential functions: On/Off, volume control, channel navigation, mute, etc.  
+     + Review target audience: all ages, minimal tech experience.  
+   + **Design Aesthetics** (5 minutes)  
+     + Discuss ergonomic and flashy design elements.  
+     + Review color schemes and logo placement.  
+
+3. **Prototype Evaluation (10 minutes)**  
+   + **Prototype Presentation** (5 minutes)  
+     + Review the prototype and its adherence to design criteria.  
+   + **Feedback and Adjustments** (5 minutes)  
+     + Gather feedback from team members on the prototype and discuss necessary adjustments.  
+
+4. **Budget and Production Feasibility (5 minutes)**  
+   + **Budget Review** (5 minutes)  
+     + Discuss production costs and ensure alignment with budget constraints.  
+
+5. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Assignment** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2008c.json,"**Meeting Agenda: Design Project Review**  
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each participant shares their name and role in the project.  
+   + **Project Overview** (3 minutes)  
+     + Brief recap of project goals and objectives.  
+
+2. **Discussion of Design Prototypes (10 minutes)**  
+   + **Prototype Presentations** (5 minutes)  
+     + Review of the three prototypes: features, benefits, and drawbacks.  
+     + Discussion on the selected prototype (mango design) and its alignment with project goals.  
+   + **Feedback and Adjustments** (5 minutes)  
+     + Gather feedback on the selected design and discuss any necessary adjustments.  
+
+3. **Market Analysis and User Requirements (5 minutes)**  
+   + **Market Trends Presentation** (3 minutes)  
+     + Overview of current trends in remote control design and user preferences.  
+   + **User Requirements Discussion** (2 minutes)  
+     + Identify key user requirements based on market analysis.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+   + **Action Items Review** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2009d.json,"**Meeting Agenda: Remote Control Project Kickoff**  
+1. **Introductions and Icebreaker (5 minutes)**  
+  + **Icebreaker Activity** (2 minutes)  
+    + Participants share their favorite TV show and why they enjoy it.  
+  + **Overview of Participants** (3 minutes)  
+    + Brief introductions of team members and their roles in the project.  
+
+2. **Project Overview (10 minutes)**  
+  + **Project Goals Presentation** (5 minutes)  
+    + Discuss the aim to create a trendy, user-friendly remote control priced at 25 Euro with production costs under 12.50 Euro.  
+    + Outline the target market and expected profit margins.  
+  + **Discussion of Key Features** (5 minutes)  
+    + Brainstorm on essential features: voice recognition, intuitive design, and aesthetic considerations.  
+
+3. **Design Methodology (5 minutes)**  
+  + **Functional Design Approach** (3 minutes)  
+    + Overview of the functional design process and its importance for user satisfaction.  
+  + **Technical Functions Discussion** (2 minutes)  
+    + Address the need for simplicity versus complexity in remote control functions.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assign Tasks** (5 minutes)  
+    + Outline individual responsibilities for the next phase of the project and set deadlines.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 3, 'REL_DOC': 3, 'OVR_DOC': 2}"
+ES2005c.json,"**Meeting Agenda: Design Project Development**  
+
+1. **Introductions and Overview (5 minutes)**  
+   + **Introductions** (2 minutes)  
+     + Each team member briefly introduces themselves and their role.  
+   + **Meeting Objectives** (3 minutes)  
+     + Outline the goals for the meeting: discuss design concepts, review decisions, and assign next steps.  
+
+2. **Design Concepts Discussion (10 minutes)**  
+   + **Presentation of Prototypes** (5 minutes)  
+     + Review of three prototypes: fruit-shaped, red ball, and banana dragon.  
+     + Discuss features: speech recognition, organic design, and materials.  
+   + **Feedback and Consensus** (5 minutes)  
+     + Gather input on design preferences and finalize decisions on shape, color, and functionality.  
+
+3. **Budget and Market Considerations (5 minutes)**  
+   + **Budget Review** (3 minutes)  
+     + Discuss the budget constraints and ensure alignment with design choices.  
+   + **Market Research Insights** (2 minutes)  
+     + Review findings from market research and competitor analysis.  
+
+4. **Action Items and Next Steps (5 minutes)**  
+   + **Assign Tasks** (5 minutes)  
+     + Confirm responsibilities:  
+       - Raj: Competitor analysis  
+       - Participant 3: Shape and color research  
+       - Arlo: Material specifications  
+       - PM: Compile meeting notes and prepare for next meeting.  
+
+**Total Time:** 25 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+IS1007d.json,"**Meeting Agenda: Remote Control Design Review**  
+
+1. **Opening Remarks (5 minutes)**  
+  + **Introduction by Project Manager** (2 minutes)  
+    + Overview of meeting objectives and agenda.  
+    + Assigning roles for minute-taking.  
+  + **Review of Previous Meeting Decisions** (3 minutes)  
+    + Recap key decisions made regarding remote control features.  
+    + Address any outstanding action items from previous meetings.  
+
+2. **Presentations on Design Concepts (15 minutes)**  
+  + **Components Design Overview** (5 minutes)  
+    + Discussion on energy sources and materials: solar, titanium, rubber.  
+    + Review of interface options: buttons vs. scrolls.  
+  + **User Interface Design Presentation** (5 minutes)  
+    + Overview of proposed user interface features and navigation tools.  
+    + Discussion on voice recognition and child-friendly design elements.  
+  + **Market Trends and Evaluation Criteria** (5 minutes)  
+    + Presentation of recent market findings on user preferences.  
+    + Discussion on the importance of aesthetics and usability in design.  
+
+3. **Decision-Making on Key Features (10 minutes)**  
+  + **Discussion on Remote Control Functions** (5 minutes)  
+    + Finalizing decisions on button layout and speech recognition integration.  
+    + Consideration of LCD display options and their cost implications.  
+  + **Evaluation of Prototypes** (5 minutes)  
+    + Review feedback on prototype designs and features.  
+    + Discuss potential adjustments based on user feedback and market trends.  
+
+4. **Next Steps and Action Items (5 minutes)**  
+  + **Assigning Responsibilities** (5 minutes)  
+    + Outline tasks for each team member based on discussions.  
+    + Set deadlines for the next round of presentations and feedback.  
+
+**Total Time:** 35 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"
+ES2004d.json,"**Meeting Agenda: Final Design Review for Remote Control Project**  
+
+1. **Introductions and Icebreaker (5 minutes)**  
+   + **Icebreaker Activity** (2 minutes)  
+     + Participants share their favorite animal and describe it in three adjectives.  
+   + **Overview of Participants** (3 minutes)  
+     + Brief introductions of team members and their roles.  
+
+2. **Project Overview and Updates (10 minutes)**  
+   + **Project Manager Presentation** (5 minutes)  
+     + Recap of project goals: trendy, original, and user-friendly design.  
+     + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+   + **Discussion of Key Features** (5 minutes)  
+     + Review of main features: multi-utility concept, user-friendly interface, and design considerations.  
+
+3. **Design Decisions (10 minutes)**  
+   + **Internal Design Elements** (5 minutes)  
+     + Discussion on the internal components and features, including the use of a kinetic charger and standard chip.  
+   + **External Design Elements** (5 minutes)  
+     + Review of external design considerations, including color schemes and materials.  
+
+4. **Next Steps and Actions (5 minutes)**  
+   + **Action Items** (5 minutes)  
+     + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+**Total Time:** 30 minutes  ","{'FAC_DOC': 5, 'INF_DOC': 5, 'REL_DOC': 5, 'OVR_DOC': 5}"

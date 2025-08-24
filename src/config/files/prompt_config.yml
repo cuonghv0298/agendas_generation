@@ -1,0 +1,701 @@
+# config.yaml
+
+prompt:
+  combine_docs_prompt: |
+    You are an insightful assistant, providing tailored responses based on pertinent context, emphasizing precision and clarity.
+
+    Instruction:
+      + Review the provided context
+      + Respond to the user's query
+      + Offer a thorough and detailed explanation
+      + Avoid including personal opinions or conclusions
+
+    Context for Reference:
+    {context}
+
+    Answer:
+
+  condense_question_prompt: |
+    Given a chat history and the latest user question which might reference context in the chat history, 
+    formulate a standalone question which can be understood without the chat history. 
+    Do NOT answer the question, just reformulate it if needed and otherwise return it as is.
+
+  generate_example_question_prompt: |
+    You are an RAG assistant, Your task is to analyze the given context and generate relevant 1 example question based on it.
+    
+    Context: 
+    """
+    {content}
+    """
+
+    Example Question: 
+  generate_recap_agenda_prompt: |
+    As a Project Manager, analyze the provided meeting transcript and summary to create an efficient agenda. 
+    Ensure each section is concise and time-effective
+
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the transcript and summary.
+      2. Identify key discussion points and decisions.
+      3. Allocate estimated times for each section.
+      4. Optimize the agenda for clarity and brevity.
+      5. Do not add any conclusions or personal opinions.
+    
+    Transcript: 
+    """
+    {input1}
+    """
+
+    Meeting's Summary: 
+    """
+    {input2}
+    """
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes 
+    """ 
+
+    Recap Agenda:
+  generate_agenda_template_prompt: |
+    As an assistant to a Project Manager, your task is to develop a structured meeting agenda template using insights from the previous agenda. 
+    The template should be organized, easy to follow, It helps to guide a person create an effective meeting agenda that enhances communication and project management.
+
+    Instructions:
+    1. Review Previous Agenda:
+       Analyze the provided agenda content to identify recurring themes and essential components.
+       Note any sections that consistently appear, such as updates, action items, or questions.
+    2. Design the Agenda Template:
+        Create a clear and logical structure for the template.
+        Just need to include sections that are relevant to the project or team.
+    3. Ensure Clarity and Usability:
+        Use bullet points or numbered lists for easy navigation.
+        Allocate time for each section to maintain meeting efficiency.
+    4. Avoid Personal Opinions:
+        Focus on the structure and content of the agenda.
+        Do not include personal opinions or conclusions.    
+    Example Agenda Template:
+    ```
+    1. Opening Remarks
+    + Purpose of the meeting
+    + Brief overview of the agenda
+    2. Small Wins
+    + Recent achievements
+    + Positive developments
+    3. Review Past Action Items
+    + Status of previous tasks
+    + Address any unfinished items
+    4. Project Updates
+    + Current status
+    + Progress on objectives
+    + Upcoming phases
+    5. Challenges & Puzzles
+    + Identify obstacles
+    + Propose solutions
+    6. Open Questions
+    + Team inquiries
+    + Leadership questions
+    7. New Action Items
+    + Tasks for the next period
+    + Assign responsibilities
+    ```
+    Previous Agenda:
+    ```
+    {content}
+    ```
+    Agenda Template:
+  generate_truncated_sigle_input_agenda_prompt: |
+    As a Project Manager, your task is to create a concise agenda for the upcoming meeting based on the shared documents.
+    The agenda should be structured, easy to follow, and time-efficient.
+
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the shared documents.
+      2. Identify key discussion points and decisions.
+      3. Allocate estimated times for each section.
+      4. Optimize the agenda for clarity and brevity.
+      5. Do not add any conclusions or personal opinions.
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes  
+    """
+    Shared Documents: 
+    """
+    {content}
+    """
+
+    Agenda:
+
+  generate_truncated_multi_input_agenda_prompt: |
+    As a Project Manager, your task is to create a concise agenda for the upcoming meeting based on the shared documents and agenda template.
+    The agenda should be structured, easy to follow, and time-efficient.
+
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the shared documents.
+      2. Identify key discussion points and decisions.
+      3. Allocate estimated times for each section.
+      4. Optimize the agenda for clarity and brevity.
+      5. Do not add any conclusions or personal opinions.
+
+    Template:
+    """
+    1. **Introduction (5 minutes)**
+      + **Overview of Meeting Purpose (2 minutes)**
+        + State the main objectives of the meeting.
+        + Confirm focus areas for discussion.
+      + **Team Introductions (3 minutes)**
+        + Each member introduces themselves and their role.
+        + Brief overview of the project or topic.
+
+    2. **Project Updates (10 minutes)**
+      + **Status Reports (5 minutes)**
+        + Team members provide updates on their assigned tasks.
+        + Highlight any significant developments or changes.
+      + **Review of Previous Action Items (5 minutes)**
+        + Discuss the status of tasks assigned in the last meeting.
+        + Address any unfinished items or challenges encountered.
+
+    3. **Discussion Topics (10 minutes)**
+      + **Key Discussion Points (5 minutes)**
+        + Identify and discuss major topics relevant to the project (e.g., design features, market analysis).
+        + Encourage input and ideas from all team members.
+      + **Challenges and Solutions (5 minutes)**
+        + Discuss any obstacles faced and propose potential solutions.
+        + Encourage collaborative problem-solving.
+
+    4. **Decision-Making (5 minutes)**
+      + **Review Key Decisions (3 minutes)**
+        + Confirm any decisions made during the meeting.
+        + Ensure clarity on the implications of these decisions.
+      + **Next Steps (2 minutes)**
+        + Outline the immediate next steps following the meeting.
+        + Assign responsibilities for upcoming tasks.
+
+    5. **Action Items (5 minutes)**
+      + **Task Assignments (3 minutes)**
+        + Clearly assign tasks to team members with deadlines.
+        + Ensure everyone understands their responsibilities.
+      + **Follow-Up Plan (2 minutes)**
+        + Discuss the plan for the next meeting and any required follow-up actions.
+
+    6. **Open Questions and Closing (5 minutes)**
+      + **Open Floor for Questions (3 minutes)**
+        + Allow team members to raise any additional questions or concerns.
+      + **Wrap-Up (2 minutes)**
+        + Summarize key points discussed and confirm understanding.
+        + Thank participants for their contributions.
+
+    **Total time: 40 minutes**
+
+    """
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes  
+    """
+
+    Shared Documents: 
+    """
+    {content}
+    """
+
+
+    Agenda:
+  generate_category_truncated_multi_input_agenda_prompt: |
+    As a Project Manager, your task is to create a concise agenda for the upcoming meeting based on the shared documents and agenda template.
+    The agenda should be structured, easy to follow, and time-efficient.
+    Category: {input1}
+    Description: {input2}
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the shared documents.
+      2. Identify key discussion points and decisions.
+      3. Allocate estimated times for each section.
+      4. Optimize the agenda for clarity and brevity.
+      5. Do not add any conclusions or personal opinions.
+
+    Template:
+    """
+    1. **Introduction (5 minutes)**
+      + **Overview of Meeting Purpose (2 minutes)**
+        + State the main objectives of the meeting.
+        + Confirm focus areas for discussion.
+      + **Team Introductions (3 minutes)**
+        + Each member introduces themselves and their role.
+        + Brief overview of the project or topic.
+
+    2. **Project Updates (10 minutes)**
+      + **Status Reports (5 minutes)**
+        + Team members provide updates on their assigned tasks.
+        + Highlight any significant developments or changes.
+      + **Review of Previous Action Items (5 minutes)**
+        + Discuss the status of tasks assigned in the last meeting.
+        + Address any unfinished items or challenges encountered.
+
+    3. **Discussion Topics (10 minutes)**
+      + **Key Discussion Points (5 minutes)**
+        + Identify and discuss major topics relevant to the project (e.g., design features, market analysis).
+        + Encourage input and ideas from all team members.
+      + **Challenges and Solutions (5 minutes)**
+        + Discuss any obstacles faced and propose potential solutions.
+        + Encourage collaborative problem-solving.
+
+    4. **Decision-Making (5 minutes)**
+      + **Review Key Decisions (3 minutes)**
+        + Confirm any decisions made during the meeting.
+        + Ensure clarity on the implications of these decisions.
+      + **Next Steps (2 minutes)**
+        + Outline the immediate next steps following the meeting.
+        + Assign responsibilities for upcoming tasks.
+
+    5. **Action Items (5 minutes)**
+      + **Task Assignments (3 minutes)**
+        + Clearly assign tasks to team members with deadlines.
+        + Ensure everyone understands their responsibilities.
+      + **Follow-Up Plan (2 minutes)**
+        + Discuss the plan for the next meeting and any required follow-up actions.
+
+    6. **Open Questions and Closing (5 minutes)**
+      + **Open Floor for Questions (3 minutes)**
+        + Allow team members to raise any additional questions or concerns.
+      + **Wrap-Up (2 minutes)**
+        + Summarize key points discussed and confirm understanding.
+        + Thank participants for their contributions.
+
+    **Total time: 40 minutes**
+
+    """
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes  
+    """
+
+    Shared Documents: 
+    """
+    {input3}
+    """
+
+
+    Agenda:
+  # summarized_by_stuff_prompt: |
+  #   Write a concise summary of the following:
+  #   """
+  #   {text}
+  #   """
+  #   CONCISE SUMMARY:
+  generate_rag_multi_input_agenda_prompt: |
+    As a Project Manager, your task is to create a concise agenda for the upcoming meeting based on provided questions, answers and agenda template.
+    The agenda should be structured, easy to follow, and time-efficient.
+
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the provided template and shared documents.
+      2. Extract key discussion points and decisions from the questions and answers.
+      3. Structure the agenda using the template, incorporating relevant content.
+      4. Assign realistic time estimates to each section and subsection.
+      5. Ensure the agenda is concise, focused, and optimized for clarity.
+      6. Do not add any conclusions or personal opinions.
+
+    Template:
+    """
+    1. **Introduction (5 minutes)**
+      + **Overview of Meeting Purpose (2 minutes)**
+        + State the main objectives of the meeting.
+        + Confirm focus areas for discussion.
+      + **Team Introductions (3 minutes)**
+        + Each member introduces themselves and their role.
+        + Brief overview of the project or topic.
+
+    2. **Project Updates (10 minutes)**
+      + **Status Reports (5 minutes)**
+        + Team members provide updates on their assigned tasks.
+        + Highlight any significant developments or changes.
+      + **Review of Previous Action Items (5 minutes)**
+        + Discuss the status of tasks assigned in the last meeting.
+        + Address any unfinished items or challenges encountered.
+
+    3. **Discussion Topics (10 minutes)**
+      + **Key Discussion Points (5 minutes)**
+        + Identify and discuss major topics relevant to the project (e.g., design features, market analysis).
+        + Encourage input and ideas from all team members.
+      + **Challenges and Solutions (5 minutes)**
+        + Discuss any obstacles faced and propose potential solutions.
+        + Encourage collaborative problem-solving.
+
+    4. **Decision-Making (5 minutes)**
+      + **Review Key Decisions (3 minutes)**
+        + Confirm any decisions made during the meeting.
+        + Ensure clarity on the implications of these decisions.
+      + **Next Steps (2 minutes)**
+        + Outline the immediate next steps following the meeting.
+        + Assign responsibilities for upcoming tasks.
+
+    5. **Action Items (5 minutes)**
+      + **Task Assignments (3 minutes)**
+        + Clearly assign tasks to team members with deadlines.
+        + Ensure everyone understands their responsibilities.
+      + **Follow-Up Plan (2 minutes)**
+        + Discuss the plan for the next meeting and any required follow-up actions.
+
+    6. **Open Questions and Closing (5 minutes)**
+      + **Open Floor for Questions (3 minutes)**
+        + Allow team members to raise any additional questions or concerns.
+      + **Wrap-Up (2 minutes)**
+        + Summarize key points discussed and confirm understanding.
+        + Thank participants for their contributions.
+
+    **Total time: 40 minutes**
+
+    """
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes  
+    """
+
+    Shared Documents: 
+    """
+    {content}
+    """
+
+
+    Agenda:
+  generate_category_rag_multi_input_agenda_prompt: |
+    As a Project Manager, your task is to create a concise agenda for the upcoming meeting based on provided questions, answers and agenda template.
+    The agenda should be structured, easy to follow, and time-efficient.
+    Category: {input1}
+    Description: {input2}
+    Format:
+      Meeting Agenda Title
+      1. Section 1 Name (5 minutes)
+        + Subsection 1.1 Name (2 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 1.2 Name (3 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      2. Section 2 Name (10 minutes)
+        + Subsection 2.1 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+        + Subsection 2.2 Name (5 minutes)
+          + Key discussion points or decisions
+          + Key discussion points or decisions
+      
+      Total time: 15 minutes
+
+    Instructions:
+      1. Review the provided template and shared documents.
+      2. Extract key discussion points and decisions from the questions and answers.
+      3. Structure the agenda using the template, incorporating relevant content.
+      4. Assign realistic time estimates to each section and subsection.
+      5. Ensure the agenda is concise, focused, and optimized for clarity.
+      6. Do not add any conclusions or personal opinions.
+
+    Template:
+    """
+    1. **Introduction (5 minutes)**
+      + **Overview of Meeting Purpose (2 minutes)**
+        + State the main objectives of the meeting.
+        + Confirm focus areas for discussion.
+      + **Team Introductions (3 minutes)**
+        + Each member introduces themselves and their role.
+        + Brief overview of the project or topic.
+
+    2. **Project Updates (10 minutes)**
+      + **Status Reports (5 minutes)**
+        + Team members provide updates on their assigned tasks.
+        + Highlight any significant developments or changes.
+      + **Review of Previous Action Items (5 minutes)**
+        + Discuss the status of tasks assigned in the last meeting.
+        + Address any unfinished items or challenges encountered.
+
+    3. **Discussion Topics (10 minutes)**
+      + **Key Discussion Points (5 minutes)**
+        + Identify and discuss major topics relevant to the project (e.g., design features, market analysis).
+        + Encourage input and ideas from all team members.
+      + **Challenges and Solutions (5 minutes)**
+        + Discuss any obstacles faced and propose potential solutions.
+        + Encourage collaborative problem-solving.
+
+    4. **Decision-Making (5 minutes)**
+      + **Review Key Decisions (3 minutes)**
+        + Confirm any decisions made during the meeting.
+        + Ensure clarity on the implications of these decisions.
+      + **Next Steps (2 minutes)**
+        + Outline the immediate next steps following the meeting.
+        + Assign responsibilities for upcoming tasks.
+
+    5. **Action Items (5 minutes)**
+      + **Task Assignments (3 minutes)**
+        + Clearly assign tasks to team members with deadlines.
+        + Ensure everyone understands their responsibilities.
+      + **Follow-Up Plan (2 minutes)**
+        + Discuss the plan for the next meeting and any required follow-up actions.
+
+    6. **Open Questions and Closing (5 minutes)**
+      + **Open Floor for Questions (3 minutes)**
+        + Allow team members to raise any additional questions or concerns.
+      + **Wrap-Up (2 minutes)**
+        + Summarize key points discussed and confirm understanding.
+        + Thank participants for their contributions.
+
+    **Total time: 40 minutes**
+
+    """
+
+    Example Agenda:
+    """
+    **Meeting Agenda: Design Project Update**  
+    1. **Introductions and Icebreaker (5 minutes)**  
+      + **Icebreaker Activity** (2 minutes)  
+        + Participants draw their favorite animal and describe it in three adjectives.  
+      + **Overview of Participants** (3 minutes)  
+        + Brief introductions of team members and their roles.  
+
+    2. **Project Overview (10 minutes)**  
+      + **Project Manager Presentation** (5 minutes)  
+        + Outline of project goals: trendy, original, and user-friendly design.  
+        + Financial guidelines: Price Euro 20, Production cost: Euro 12.5.  
+      + **Discussion of Key Features** (5 minutes)  
+        + Brainstorming on main features: multi-utility concept, user-friendly browsing menu, flip-top design.  
+
+    3. **Design Decisions (10 minutes)**  
+      + **Internal Design Elements** (5 minutes)  
+        + Discussion on the internal components and design features.  
+      + **External Design Elements** (5 minutes)  
+        + Review of external design considerations and target audience.  
+
+    4. **Next Steps and Actions (5 minutes)**  
+      + **Action Items** (5 minutes)  
+        + Assign tasks to team members based on discussions and decisions made during the meeting.  
+
+    **Total Time:** 30 minutes  
+    """
+
+    Answers_And_Questions: 
+    """
+    {input3}
+    """
+
+
+    Agenda:
+  summarized_by_stuff_prompt: |
+    Tóm tắt đoạn văn sau:
+    """
+    {text}
+    """
+    Tóm tắt:

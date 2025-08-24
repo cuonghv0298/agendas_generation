@@ -1,0 +1,87 @@
+metrics:
+  transcript:
+    # Original Transcript-Based Metrics
+    FAC:
+      "Your task is to assess the factuality of the given agenda considering the meeting transcript.
+      Break down each item in the agenda into atomic facts and assess if these facts align with the content of the transcript.
+      The agenda should accurately reflect the planned discussion points from the transcript without introducing misleading or unrelated topics.
+      Assign a score of 1 if there are severe factuality issues and a score of 5 if the agenda perfectly matches the planned topics in the transcript."
+
+    INF:
+      "Criteria: Informativeness (INF) \n\n 
+      The agenda should be a concise and accurate representation of the key topics and objectives of the meeting. It should avoid including irrelevant or minor details that are not essential to the meeting’s purpose.
+      The agenda should have a clear and logical structure that follows the intended order of discussion, or provides a coherent alternative order if it improves the flow of the meeting. It should use appropriate transitions and connectors to ensure clarity.
+      The agenda should use the same or similar terminology and tone as the meeting’s context, unless there is a need to simplify or clarify certain terms for the participants. It should avoid introducing new or unfamiliar topics that are not relevant to the meeting.
+      The agenda should maintain the same perspective and point of view as the meeting organizers, reflecting the intended scope and focus without introducing personal opinions, interpretations, or evaluations.
+      The agenda should be grammatically correct and free of spelling, punctuation, and capitalization errors. It should clearly outline the discussion points and, if applicable, reference supporting materials or documents.
+      The agenda should be coherent and consistent with the meeting’s purpose and objectives. It should avoid introducing topics that contradict or deviate from the meeting’s main goals. Additionally, it should prevent redundancy and the inclusion of unnecessary filler items."
+
+    REL:
+      "Criteria: Relevance (REL) \n\n
+      The agenda should capture the main topics, discussion points, and objectives of the meeting in a concise and accurate way.
+      The agenda should not omit any essential items necessary to understand the meeting’s purpose and significance.
+      The agenda should not include any irrelevant or redundant details that distract from the meeting’s focus or introduce confusion.
+      The agenda should use the same or similar terminology and tone as the meeting context, unless technical jargon needs to be simplified.
+      The agenda should reflect the intended structure and organization of the meeting, presenting the discussion points in a logical order.
+      \nExamples of scoring:
+      Score 5: The agenda meets all relevance criteria and provides a clear and comprehensive outline of the meeting without any errors or gaps.
+      Score 4: The agenda meets most relevance criteria and provides a mostly clear and accurate outline but may have minor omissions, such as missing a small discussion point or slightly altering wording.
+      Score 3: The agenda meets some relevance criteria but has noticeable issues, such as missing a key discussion item, using vague wording, or presenting points in a less logical order.
+      Score 2: The agenda meets few relevance criteria and has major gaps, such as missing multiple important topics, using misleading terms, or presenting items in a confusing sequence.
+      Score 1: The agenda meets none or almost none of the relevance criteria and provides an unclear or misleading outline, with severe issues such as omitting key topics, including incorrect details, or lacking structure."
+
+    OVR:
+      "Assess the quality of the given agenda considering the transcript on the following criteria:
+      1. The agenda should not contain any redundant or unnecessary items that do not aid in understanding the meeting’s purpose.
+      2. The agenda should be coherent, maintaining logical flow, relevance, and clarity within each item and across the overall structure.
+      3. The agenda should use appropriate language with correct grammar and clarity, avoiding ambiguity.
+      4. The agenda should not omit essential topics or objectives. All key discussion points should be present with sufficient detail.
+      5. The agenda should accurately reflect the planned discussions and correctly attribute topics to relevant participants or departments.
+      6. The agenda should not add hallucinated content, including new topics not planned for the meeting or misrepresenting details.
+      7. The agenda should maintain the logical and temporal structure of the meeting, ensuring topics are in the correct order.
+      8. The agenda should not include irrelevant information but focus on what is important to the meeting’s objectives.
+      When encountering issues with any of these criteria, assess the impact and rate accordingly. Omissions and hallucinated content are more severe than other issues.
+      Provide a single overall score, with a score of 1 being a poor agenda and 5 being a flawless agenda. Only return one score that rates the overall quality of the agenda."
+
+  shared_docs:
+    # New Document-Based Metrics
+    FAC_DOC:
+      "Your task is to assess the factuality of the given agenda considering the related documents provided for the meeting.
+      Break down each item in the agenda into atomic facts and assess if these facts align with the content of the related documents.
+      The agenda should accurately reflect the topics, objectives, or details outlined in the related documents without introducing misleading or unsupported information.
+      Assign a score of 1 if there are severe factuality issues (e.g., most agenda items contradict or are absent from the documents) and a score of 5 if the agenda perfectly matches the content of the related documents."
+
+    INF_DOC:
+      "Criteria: Informativeness for Documents (INF_DOC) \n\n
+      The agenda should be a concise and accurate representation of the key topics and objectives outlined in the related documents. It should avoid including irrelevant or minor details not supported by the documents.
+      The agenda should have a clear and logical structure that reflects the organization or priorities in the related documents, or provides a coherent alternative order if it enhances clarity for the meeting.
+      The agenda should use the same or similar terminology and tone as the related documents, unless simplification is necessary for the meeting’s audience. It should avoid introducing new or unfamiliar topics not present in the documents.
+      The agenda should be grammatically correct and free of spelling, punctuation, and capitalization errors. It should clearly outline the discussion points derived from the documents and, if applicable, reference specific sections or materials within them.
+      The agenda should be coherent and consistent with the purpose and scope of the related documents, avoiding contradictions or deviations from their main focus."
+
+    REL_DOC:
+      "Criteria: Relevance for Documents (REL_DOC) \n\n
+      The agenda should capture the main topics, discussion points, and objectives outlined in the related documents in a concise and accurate way.
+      The agenda should not omit any essential items from the documents necessary to understand the meeting’s purpose and context.
+      The agenda should not include irrelevant or redundant details that are not supported by the related documents or that distract from their focus.
+      The agenda should use the same or similar terminology and tone as the related documents, unless technical jargon needs to be simplified for the meeting participants.
+      The agenda should reflect the intended structure or priorities of the related documents, presenting the discussion points in a logical order consistent with the document content.
+      \nExamples of scoring:
+      Score 5: The agenda fully aligns with the related documents, capturing all key points comprehensively with no errors or unsupported items.
+      Score 4: The agenda aligns well with the documents, capturing most key points with minor omissions or slight deviations that do not significantly mislead.
+      Score 3: The agenda partially aligns with the documents but has noticeable gaps, such as missing some key points or including minor unsupported details.
+      Score 2: The agenda poorly aligns with the documents, with significant omissions or inclusion of irrelevant items that misrepresent the document content.
+      Score 1: The agenda shows little to no alignment with the documents, missing most key points or introducing substantial unsupported content."
+
+    OVR_DOC:
+      "Assess the quality of the given agenda considering the related documents on the following criteria:
+      1. The agenda should not contain redundant or unnecessary items not supported by the related documents.
+      2. The agenda should be coherent, maintaining logical flow, relevance, and clarity within each item and across the overall structure, as derived from the documents.
+      3. The agenda should use appropriate language with correct grammar and clarity, avoiding ambiguity, and aligning with the document’s style.
+      4. The agenda should not omit essential topics or objectives outlined in the related documents. All key points should be present with sufficient detail.
+      5. The agenda should accurately reflect the content and intent of the related documents, correctly attributing topics where applicable.
+      6. The agenda should not add hallucinated content, such as topics or details not present in or supported by the related documents.
+      7. The agenda should maintain a logical structure that mirrors the organization or priorities in the related documents, ensuring topics are presented appropriately.
+      8. The agenda should focus on what is important to the meeting’s objectives as defined by the documents, avoiding irrelevant information.
+      When encountering issues with any of these criteria, assess the impact and rate accordingly. Omissions and hallucinated content are more severe than other issues.
+      Provide a single overall score, with a score of 1 being a poor agenda and 5 being a flawless agenda aligned with the related documents."
